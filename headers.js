@@ -5,6 +5,7 @@ var urlList = [];
 var processedUrlList = [];
 var badUrls = [];
 var cidCodes = [];
+var processingTimes = [];
 var startTime, endTime;
 
 /**
@@ -14,11 +15,20 @@ var startTime, endTime;
 var processing = false;
 loadUrl = function (address) {
     console.log("Stating processing : " + address);
+
+    var thisProcessStartTime = new Date().getTime();
+
     page.onResourceReceived = function(response) {
         processing = true;
         if (response.status != 200 && response.status != 201 && response.status != 304) {
             var _urlAccess = response.url;
             console.log('Status : ' + response.status + ', URL : ' + _urlAccess.substring(0, 50) );
+        }
+
+        var urlCalled = response.url;
+
+        if (urlCalled.indexOf('http://m.univision.com') == 0) {
+            //console.log(urlCalled);
         }
     };
 
@@ -28,6 +38,9 @@ loadUrl = function (address) {
 
         if (status !== 'success') {
             console.log('FAIL to load the address : ' + address);
+            var thisProcessEndTime = new Date().getTime();
+            processingTimes.push(thisProcessEndTime - thisProcessStartTime);
+
             if (processing == true) {
                 badUrls.push(address);
                 console.log("Page load failure. 20 seconds wait time.");
@@ -53,13 +66,13 @@ loadUrl = function (address) {
             if (cid) {
                 console.log(cid);
                 cidCodes.push(cid);
-            }
 
-            //page.evaluate(function() {
-            //console.log(page.content);
-            //});
+                //addGenerationRequest(cid);
+            }
             
             validateUrlAndAdd(links, address);
+            var thisProcessEndTime = new Date().getTime();
+            processingTimes.push(thisProcessEndTime - thisProcessStartTime);
         }
 
         requestPage();
@@ -92,6 +105,11 @@ cleanupUrl = function(url) {
     return url;
 }
 
+// addGenerationRequest = function (cid) {
+//     var generationUrl = 'http://wcm-jbjohn.univision.com/working/sendGeneration.php?object=' + cid;
+//     urlList.unshift(generationUrl);
+// }
+
 addUrl = function (address) {
     address = cleanupUrl(address);
     if (processedUrlList.indexOf(address) < 0 && urlList.indexOf(address) < 0) {
@@ -100,7 +118,7 @@ addUrl = function (address) {
 }
 
 getUrlDomain = function(url) {
-    var domain = "http://www.google.com";
+    var domain = "http://www.univision.com";
 
     var match = url.match('^http:\/\/(.*)\.(com|org)/?(.*)');
     if (match.length > 2) {
@@ -149,8 +167,13 @@ printReports = function () {
     console.log("Bad url list : ");
     console.log(badUrls);
 
-    console.log("Number of files processed : " + processedUrlList.length);
-    console.log("The processing took : " + (endTime - startTime) + "ms.");
+    console.log("Number of pages processed : " + processedUrlList.length);
+    console.log("The processing took : " + (endTime - startTime)/1000 + " seconds");
+
+    var total=0;
+    for(var i in processingTimes) { total += processingTimes[i]; }
+
+    console.log("Average page load time : " + (total/processingTimes.length)/1000 + " seconds");
 }
 
 stop = function() {
