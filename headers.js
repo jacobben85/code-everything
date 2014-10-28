@@ -155,7 +155,7 @@ printReports = function () {
 
 stop = function() {
 
-    var endTime = new Date().getTime();
+    endTime = new Date().getTime();
 
     printReports();
     phantom.exit();
@@ -163,7 +163,7 @@ stop = function() {
 
 start = function() {
 
-    var startTime = new Date().getTime();
+    startTime = new Date().getTime();
     
     getUrlFromFile();
     requestPage();
