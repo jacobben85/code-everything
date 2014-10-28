@@ -1,0 +1,2689 @@
+Stating processing : http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion
+Processing completed : http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion
+video479589
+<!--[if gt IE 8]><!--><!DOCTYPE html><html><!--<![endif]--><!--[if lte IE 8]>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml">
+<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/video#">
+        <title>Todo tiempo tiene su función en la vida - Univision Videos</title>
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+
+				
+
+
+
+	
+<meta name="keywords" content="">
+<meta name="description" content="Consejo universal. Recuerda que todo tiempo tiene su función en nuestra vida y hay que disfrutarlo al máximo.">
+<meta name="title" content="Todo tiempo tiene su función en la vida">
+				
+<script type="text/javascript" id="integration" src="http://s.univision.com/js/video/ooyala/integration-min.js"></script><script type="text/javascript" id="ooyalaPlayer" src="http://player.ooyala.com/v3/64a83aaef093437b877177c193830880?version=ff317e5561456126baf95d861bd407ce8d62dcd3"></script><script type="text/javascript" id="google-plus-js" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" id="twitter-wjs" async="" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" id="facebook-jslib" async="" src="//connect.facebook.net/es_LA/all.js#appId=278820858805984&amp;xfbml=1"></script><script type="text/javascript">var cid = 'video479589', UIM_NewStyle = true;</script>
+				
+	
+			
+<script>
+	var chartbeatSection = 'portal,portal/videos,tv/hablandosola';
+</script>		
+				
+
+
+
+
+	
+
+
+	
+	
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+			
+	
+			
+	
+	
+	
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+
+
+
+
+
+<meta property="fb:app_id" content="278820858805984">
+<meta property="fb:admins" content="100000498127637">
+
+
+
+    
+	
+		
+		
+			
+				
+				
+				   	
+				
+			
+		
+	
+
+
+
+
+	 
+		<meta name="twitter:card" content="player">
+    
+    
+
+
+
+
+
+
+<meta name="twitter:site" value="@Univision">
+<meta name="twitter:title" content="Todo tiempo tiene su función en la vida">
+<meta name="twitter:description" content="Consejo universal. Recuerda que todo tiempo tiene su función en nuestra vida y hay que disfrutarlo al máximo.">
+<meta name="twitter:image:src" content="http://s0.uvnimg.com/videos/especiales/photo/2014-07-03/todo-tiempo-tiene-su-funcion_323x216.jpg">
+
+<meta property="og:type" content="video.other">
+<meta property="og:title" content="Todo tiempo tiene su función en la vida">
+<meta property="og:url" content="http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion">
+<meta property="og:site_name" content="Univision.com">
+<meta property="og:image" content="http://s0.uvnimg.com/videos/especiales/photo/2014-07-03/todo-tiempo-tiene-su-funcion_323x216.jpg">		
+<meta property="og:description" content="Consejo universal. Recuerda que todo tiempo tiene su función en nuestra vida y hay que disfrutarlo al máximo.">
+
+
+	
+		
+		   
+
+			
+				
+					
+					
+						
+							
+						
+					
+				
+			
+		
+	
+
+	
+	
+									<meta name="twitter:player" content="https://miembros.univision.com/resources/tframe.html?ec=extId:2949694&amp;pbid=64a83aaef093437b877177c193830880&amp;platform=html5-fallback&amp;options[freewheel-ads-manager.fw_video_asset_id]=2949694&amp;options[freewheel-ads-manager.fw_site_section_id]=d.VIDEOPORTAL/OTROS/HOMEPAGE&amp;options[freewheel-ads-manager.fw_player_profile]=112214:univision_live&amp;options[freewheel-ads-manager.adServer]=https://1b656.v.fwmrm.net&amp;options[freewheel-ads-manager.adManager]=https://adm.fwmrm.net/p/univision_live/AdManager.swf&amp;options[freewheel-ads-manager.html5_ad_server]=https://1b656.v.fwmrm.net/ad/g/1&amp;options[freewheel-ads-manager.html5_player_profile]=112214:univision_live_html5&amp;options[freewheel-ads-manager.FRMSegment]=channel=VIDEOPORTAL;subchannel=OTROS;section=HOMEPAGE;_fw_fss=_fw_search;mode=online;player=ooyala;beta=n&amp;options[omniture.reportSuiteID]=univisionvideosprod,univisionglobalprod">
+			<meta name="twitter:player:width" content="435">
+			<meta name="twitter:player:height" content="251">
+	
+		
+
+		<meta property="og:video:type" content="application/x-shockwave-flash">
+		<meta property="og:video" content="http://cdn-download.mcm.univision.com/uv-gm2/plugins/anvatoplayer.gm.2.0.v1.swf?id=anv_player_id_1333373956337&amp;configuration=embed&amp;autoPlay=true&amp;player=video_id=2949694,page=http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion,cdn=Akamai,name=playerembed,max_bitrate=1500,min_bitrate=300,playlist=http://feeds.univision.com/xml/videos/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion/playlist&amp;analytics=type=plugin,name=analytics,tracker=15&amp;freewheel=type=plugin,name=freewheel,account=univision_live,channel=VIDEOPORTAL,subchannel=OTROS,section=HOMEPAGE&amp;uimtracker=type=plugin,name=uimtracker,channel=VIDEOPORTAL,subchannel=OTROS,section=HOMEPAGE&amp;omniture=type=plugin,name=omniture,account=univisionglobalprod,channel=VIDEOPORTAL,subchannel=OTROS,section=HOMEPAGE">
+
+		<meta property="og:video:secure_url" content="https://miembros.univision.com/resources/anvatoplayer.mcp.9.0.swf?id=anv_player_id_1333373956337&amp;configuration=embed&amp;autoPlay=true&amp;player=video_id=2949694,page=http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion,cdn=Akamai,name=playerembed,max_bitrate=1500,min_bitrate=300,&amp;analytics=type=plugin,name=analytics,tracker=15&amp;freewheel=type=plugin,name=freewheel,account=univision_live,channel=VIDEOPORTAL,subchannel=OTROS,section=HOMEPAGE&amp;uimtracker=type=plugin,name=uimtracker,channel=VIDEOPORTAL,subchannel=OTROS,section=HOMEPAGE&amp;omniture=type=plugin,name=omniture,account=univisionglobalprod,channel=VIDEOPORTAL,subchannel=OTROS,section=HOMEPAGE">
+	
+ 
+
+
+
+		
+        		
+        <meta name="robots" content="NOODP">
+   
+                       
+
+
+
+
+	
+    	<link rel="canonical" href="http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion">
+    
+       
+
+
+ 
+		
+	
+		
+	
+	
+	
+		
+			
+		
+
+
+			
+
+
+		
+						
+
+						
+
+						
+		
+
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+			
+			
+
+				
+					
+					
+
+
+
+
+
+
+
+<script type="text/javascript">
+	if(typeof s_account === 'undefined' || s_account === null || !s_account)
+	{
+		var s_account="univisionvideosprod,univisionglobalprod";
+	}
+</script>
+
+<script type="text/JavaScript" src="http://s.univision.com/js/s_code.js?ts=1413885482"></script>
+
+
+
+
+
+        
+        <meta name="google-site-verification" content="zz2dxNlgk828lOpRo7EGMlfQStLHwJUGKv3H10i2sAY">
+    
+      
+    
+	<link type="text/css" href="http://s1.uvnimg.com/css/videos.css?ts=1413885482" media="all" rel="stylesheet">
+
+    
+     
+     
+
+
+
+
+  
+
+        <script type="text/JavaScript" src="http://s.univision.com/js/core-min.js?ts=1413885482"></script>
+  
+  
+  
+
+                
+        		
+    
+          <script type="text/JavaScript" src="http://index.univision.com/videos/especiales/index.js?ts=1413885482"></script>
+
+    
+
+
+
+
+  
+    
+    
+  
+					
+				
+			
+		
+	
+	
+
+
+		
+		            
+	            
+			    				    	
+    
+<meta http-equiv="expires" content="Fri, 26 Jun 2015 13:41:00 EDT">
+    
+                
+   
+    
+        
+
+        
+
+        
+    
+    
+
+    <script type="text/javascript">
+        var videoPlaylist = 'http://feeds.univision.com/xml/videos/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion/playlist';
+
+        
+
+        
+        
+        
+        
+
+    </script>
+
+    
+    
+        
+             
+        
+        
+        
+    
+                    
+            
+
+						
+
+
+
+
+
+
+	
+								
+				
+		
+	
+			<script type="text/javascript"> var renderAdsUrl="http://videos.univision.com/renderAdsForSubdomains.do?site=UNIVISION&channel=VIDEOPORTAL&subChannel=PROGRAMASCOMPLETOS&section=UVIDEOS&content=VIDEOPAGE&partner=TELEVISA&cid=VIDEO479589&client=ONLINE&pub=VIDEOPORTAL&beta=n&adServer=GPT"</script><style type="text/css">.uvideos_opf {display: block;height: 0px;margin: 75px auto 80px;max-width: 1282px;width: 100%;} .uvideos_opf img{ width:100%; display:block;} </style><script type="text/javascript" src="http://survey.112.2o7.net/survey/dynamic/suites/178/univisionvideosprod/list.js?1250816838736"></script><script type="text/javascript" src="http://survey.112.2o7.net/survey/dynamic/suites/184/univisionglobalprod/list.js?1250816838736"></script><script type="text/javascript" src="http://s.univision.com/js/core/social-min.js?ts=1413885482" async=""></script><script type="text/javascript" src="http://s.univision.com/js/core/user-min.js?ts=1413885482" async=""></script><script type="text/javascript" src="http://s.univision.com/js/core/header-min.js?ts=1413885482" async=""></script><script type="text/javascript" src="http://s.univision.com/js/core/ads-min.js?ts=1413885482" async=""></script><script type="text/javascript" src="http://s.univision.com/js/core/video-min.js?ts=1413885482" async=""></script><script type="text/javascript" src="http://s.univision.com/js/core/search-min.js?ts=1413885482" async=""></script><script type="text/javascript" src="http://s.univision.com/js/core/widgets/collections/grid-min.js?ts=1413885482" async=""></script><link rel="stylesheet" type="text/css" href="http://csg-eng.ooyala.com/uvn/integration_test/assets/css/adobe.css"></head><body class="relate" id="videoPage" data-pagetype="video" data-property="uvideos" data-twttr-rendered="true"><div class="uvideos_opf"><a href="http://beta.uvideos.com" rel="nofollow"><img src="http://s0.uvnimg.com/files/2014/09/25038/desktop_betabar.png"></a></div><script type="text/javascript" src="http://pix04.revsci.net/D05508/b3/0/3/120814/635790056.js?D=DM_LOC%3Dhttp%253A%252F%252Fvideos.univision.com%252Fespeciales%252Fhablando-sola%252Fvideo%252F2014-07-03%252Fmi-espacio-todo-tiempo-tiene-su-funcion%253FCHANNEL%253DVIDEOPORTAL%2526SUBCHANNEL%253DPROGRAMASCOMPLETOS%2526SECTION%253DUVIDEOS%2526CONTENT%253DVIDEOPAGE%2526PARTNER%253DTELEVISA%2526CLIENT%253DONLINE%2526CR%253D223%2526D%253D501%2526Z2%253D10%2526Z3%253D101%2526S%253DNEW%25252BYORK%2526T%253D-5%2526SRT%253Dnone%2526DP%253DLM%2526PRELANG%253DSP%2526TLD%253Dnet%2526SLD%253Dunivision%2526PUB%253DVIDEOPORTAL%2526SHOW%253DHABLANDOSOLA%2526_rsiL%253D0%26DM_EOM%3D1&amp;C=D05508"></script><div id="gpt_ad0x0" style="width:0px; height: 0px"><script type="text/javascript">googletag.cmd.push(function() { var uGptAdSize="gpt_ad0x0";  googletag.defineSlot("/6881/UIM.VIDEOPORTAL/PROGRAMASCOMPLETOS/UVIDEOS/VIDEOPAGE",[0,0],"gpt_ad0x0").addService(googletag.pubads()).setTargeting("channel","VIDEOPORTAL").setTargeting("subchannel","PROGRAMASCOMPLETOS").setTargeting("section","UVIDEOS").setTargeting("content","VIDEOPAGE").setTargeting("cid","video479589").setTargeting("partner","TELEVISA").setTargeting("show","HABLANDOSOLA").setTargeting("beta","n").setTargeting("cr","223").setTargeting("d","501").setTargeting("z2","10").setTargeting("z3","101").setTargeting("s","NEW+YORK").setTargeting("t","-5").setTargeting("srt","none").setTargeting("dp","LM").setTargeting("prelang","SP").setTargeting("tld","net").setTargeting("sld","univision");if (uGptAdSize!='gpt_ad0x0'){googletag.enableServices();googletag.display("gpt_ad0x0");} }); </script></div>
+
+	
+				
+		
+        
+        	
+    
+
+	
+
+	    
+            	
+            
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+				
+	
+	
+	
+
+
+	
+	
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+   
+
+
+
+
+	
+	
+
+	
+
+	
+
+	
+	
+
+<div itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject" class="hide"> 
+	<h2>Video: <span itemprop="name">Todo tiempo tiene su función</span></h2> 
+	<meta itemprop="duration" content="00:50"> 
+	<meta itemprop="thumbnailURL" content="http://s0.uvnimg.com/videos/especiales/photo/2014-07-03/todo-tiempo-tiene-su-funcion_88x59.jpg"> 
+	<meta itemprop="embedURL" content="http://download.mcm.univision.com.s3.amazonaws.com/uv-mcp/plugins/anvatoplayer.mcp.9.0.swf?id=anv_player_id_1333373956337&amp;configuration=embed&amp;autoPlay=false&amp;player=video_id=2949694,page=http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion,cdn=Akamai,name=playerembed,max_bitrate=1500,min_bitrate=300,playlist=http://feeds.univision.com/xml/videos/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion/playlist&amp;analytics=type=plugin,name=analytics,tracker=15&amp;freewheel=type=plugin,name=freewheel,account=univision_live,channel=VIDEOPORTAL,subchannel=OTROS,section=HOMEPAGE,&amp;uimtracker=type=plugin,name=uimtracker,channel=VIDEOPORTAL,subchannel=OTROS,section=HOMEPAGE&amp;omniture=type=plugin,name=omniture,account=univisionglobalprod,channel=VIDEOPORTAL,subchannel=OTROS,section=HOMEPAGE"> 
+	<span itemprop="description">Consejo universal. Recuerda que todo tiempo tiene su función en nuestra vida y hay que disfrutarlo al máximo.</span> 
+</div>
+        
+		<script type="text/javascript">
+        try
+        {
+            uim.core.currentVideo =
+            {
+        
+                id: 479589,
+                title: 'Todo tiempo tiene su función en la vida',
+                titleEn: 'The time has a function in our life',
+                description: 'Consejo universal. Recuerda que todo tiempo tiene su función en nuestra vida y hay que disfrutarlo al máximo.',
+                descriptionEn: 'Remember that each time has a specific function in our life.',
+                url: 'http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion',
+                thumbnailUrl: 'http://s0.uvnimg.com/videos/especiales/photo/2014-07-03/todo-tiempo-tiene-su-funcion_88x59.jpg',
+                duration: 50,
+                accessRules: "",
+                publishDate: "2014-07-03 12:41:00",
+                rating: "TV-PG",
+                videoCategoryId: "211",
+                mainGenreId: ''
+        
+            };
+        }
+        catch ( e ) { };
+        
+
+			uim.core.socialStreamId = 'id_live_show_274_airdate_1403804460_network_1';
+			uim.core.socialStreamAggregateId  = 'id_vc_211';
+			uim.core.socialStreamAbsoluteTime = '2014-06-26 13:41:00';
+			uim.core.socialStreamDuration = '50';                
+        
+        </script>
+                   
+        <h1 class="hide">
+                            Todo tiempo tiene su función en la vida
+                    </h1>
+
+        <div id="new_video_content_wrapper" class="relate">
+        	<div id="new_video_content_wrapper_outer" class="relate">
+        		<div id="new_video_content_wrapper_inner" class="float">
+			        <div id="new_video_zone_bg" class="float z3"></div>
+			        <div id="new_video_zone" class="float z2 clear">
+			        	<div id="new_video_zone_outer" class="relate clear">
+				            <div id="new_left_zone" class="left">
+				                <div id="new_left_zone_top" class="relate nooverflow clear">
+
+				                    				                    				                   						                    	
+
+
+    
+
+
+    
+
+
+                            
+    	
+
+
+    
+
+	
+        
+        
+
+    
+    
+
+
+    
+        
+    
+    
+
+
+
+<div id="player"></div>
+
+    <script type="text/javascript">
+
+	
+	
+         var ooyalaVideoPlayer,
+         videoEmbedCode    = "extId:2949694",
+         videoSyndicated   = 0;
+         
+        var nielsenClientValues = {
+			    clientid : "us-402919",
+			    vcid : "b01",
+			    sfcode : "us",
+			    prod : "vc" 
+			  };
+	
+	
+		
+			
+
+			
+				
+					
+					
+						
+							
+						
+					
+				
+			
+		
+	
+	var playerLanguage = ( uim.core.language == 'sp') ? 'es' : 'en';
+	var nielsenBeaconURL = "http://secure-us.imrworldwide.com/novms/js/2/ggcmb392.js";
+  	var s_code_url = "http://s0.uvnimg.com/files/2013/10/15890/omniture-appmeasurement.js";
+  	        videoFWSettings   = { 
+				fw_video_asset_id    : "2949694",
+				fw_site_section_id   : 'd.VIDEOPORTAL/PROGRAMASCOMPLETOS/UVIDEOS',
+				fw_mrm_network_id    : 112214,
+				fw_player_profile    : '112214:univision_live',
+				adServer             : 'http://1b656.v.fwmrm.net',
+				adManager            : ' http://adm.fwmrm.net/p/univision_live/AdManager.swf',
+				fw_ad_module_js      : "http://adm.fwmrm.net/p/univision_live/AdManager.js",
+				html5_ad_server      : "http://1b656.v.fwmrm.net/ad/g/1",
+				html5_player_profile : "112214:univision_live_html5",
+				FRMSegment: "channel=VIDEOPORTAL;subchannel=PROGRAMASCOMPLETOS;section=UVIDEOS;_fw_fss=_fw_search;mode=online;player=ooyala;beta=n"
+        };
+
+        uim.core.loadOoyalaPlayer = function()
+        {
+            OO.ready(function() { 
+                ooyalaVideoPlayer = OO.Player.create(
+                    'player',
+                    videoEmbedCode,
+                    { 
+						ccLangSelection: playerLanguage,
+                    	height:'100%',
+                        width:'100%',                    
+                        autoplay: true,
+                        wmode: 'transparent',
+                        staticResourceId: 'univision',
+                        omniture:{reportSuiteID: s_account},
+                        flashParams:{
+                            layout: 'chromeless',
+                            hide: 'all',                           
+							'thruParam_univision-ui[showLogo]':videoSyndicated,
+							'thruParam_univision-ui[jsPlayer]':'videoPlayer',
+          					'thruParam_univision-ui[langSelection]':playerLanguage
+                        },
+                        "freewheel-ads-manager": videoFWSettings,
+                        onCreate:function(player) {
+				        player.mb.subscribe("scrubbed", 'test', function(event){
+				          ooyalaVideoPlayer.play();
+				        });
+				        }
+                    }
+                );
+
+                var trackingParams = {
+                   	channel: "VIDEOPORTAL", 
+                    subchannel: "PROGRAMASCOMPLETOS", 
+                    section: "UVIDEOS"
+                };
+              
+				uim.core.video.player.triggerOoyalaCallback(ooyalaVideoPlayer);
+				
+                subscribe(ooyalaVideoPlayer, "http://archivo.univision.com/content/mediaTracker.jhtml", trackingParams);
+              
+            });
+        }
+        
+        if(typeof UIM_CORE_Video !== 'undefined')
+        {
+            uim.utils.loadOoyalaScript('http://player.ooyala.com/v3/64a83aaef093437b877177c193830880?version='+uim.core.ooyalaVersion, 'ooyalaPlayer', function(){ 
+				uim.utils.loadOoyalaScript('http://s.univision.com/js/video/ooyala/integration-min.js', 'integration',  uim.core.loadOoyalaPlayer);
+			});
+        }
+        else
+        {
+            uim.core.addEventListener( "video.load", function ( ){
+				uim.utils.loadOoyalaScript('http://player.ooyala.com/v3/64a83aaef093437b877177c193830880?version='+uim.core.ooyalaVersion, 'ooyalaPlayer', function(){ 
+					uim.utils.loadOoyalaScript('http://s.univision.com/js/video/ooyala/integration-min.js', 'integration',  uim.core.loadOoyalaPlayer);
+				});
+            });
+        }
+
+       
+		
+		
+    </script>
+	
+
+    
+
+    
+    
+
+
+    
+				                    
+				                    				                    				                    	
+
+     
+    
+<div id="eov_image_wrapper" class="z5 hide float">
+    <div data-active="true" id="eov_initial_image" class="eov_big_image left"></div>
+	<span id="eov_bottom_shade" class="float"></span>
+</div>
+
+<div id="eov_floaters" class="z3 hide float">
+    <img src="http://s0.uvnimg.com/videos/especiales/photo/2014-07-03/todo-tiempo-tiene-su-funcion_192x129.jpg" class="float eov_floaters_image">
+    <div id="just_watched_details_overlay">
+            
+    </div>
+    <div id="just_watched" class="float clear">
+        <a href="http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion" class="relate watched_img">
+            <div class="relate replay_img" style="filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://s0.uvnimg.com/videos/especiales/photo/2014-07-03/todo-tiempo-tiene-su-funcion_192x129.jpg, sizingMethod='scale'); background-image:url(http://s0.uvnimg.com/videos/especiales/photo/2014-07-03/todo-tiempo-tiene-su-funcion_192x129.jpg)"></div>
+            <span id="replay_small" class="dd_new pointer align_bottomright float"></span>
+        </a>
+
+        <a id="replay_video" class="relate inline pointer" href="http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion">
+            <div class="blue_box inline">
+                <div class="pointer sprite replay_small"></div>
+            </div>
+            <span id="replay_text" class="relate">Repetir</span>
+        </a>
+    </div>
+
+    <a href="http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion">
+        <div id="just_watched_overlay" class="float clear pointer"></div>
+    </a>
+
+    <div id="just_watched_details" class="clear float">
+        
+        <a href="http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion" class="bolden relate">
+                            <h3>
+                    Todo tiempo tiene su función
+                </h3>
+                
+        </a>
+        
+    </div>
+    
+    
+    <div id="timer" class="float bolden timer pointer">
+    </div>
+
+    <div class="eov_next_videos_container float clear" id="eov_carousel">
+        <div class="eov_next_videos_top clear">
+            <h3 class="white_txt">SIGUIENTE:</h3>
+            <div class="carousel_slider right">
+                <div class="blue_box left_arrow pointer inline valign-middle vhidden pointer">
+                    <div class="sprite left_arrow_white"></div>
+                </div>
+                <span class="white_txt carousel_more_items inline valign-middle">Más Clips &amp; Episodios</span>
+                <div class="blue_box right_arrow pointer inline valign-middle pointer">
+                    <div class="sprite right_arrow_white"></div>
+                </div>
+            </div>
+        </div>
+        <div class="eov_next_videos_carousel clear" id="eov_carousel">
+            <div class="carousel_container clear">
+                <div class="carousel_wrapper relate clear">
+                    
+                        
+                </div>
+                <!-- end carousel wrapper -->
+            </div>
+        </div>
+    </div>
+    
+</div>				                    
+                                    <div id="video_fb_overlay" class="float hide z2">
+                                        <div class="left dd_new message dshadow">
+                                            <i class="left dd_new facebook"></i>
+                                            <div class="left hide text"></div>
+                                            <div class="left dv"></div>
+                                        </div>
+                                        <div class="left dd_new close"><i class="dd_new"></i></div>
+                                    </div>
+
+				                </div>
+
+				                <div id="new_left_zone_bottom" class="clear">
+				                    
+	
+	
+<h3>
+	<a href="http://videos.univision.com/especiales/hablando-sola" class="bolden">Hablando Sola </a> - Todo tiempo tiene su función
+</h3>
+
+<div class="info_action clear">
+	<div class="left info pointer clear">
+		<span class="left dd_new"></span>
+		<div class="left">Más Información</div>
+	</div>
+
+	<div class="left share pointer clear">
+		<span class="left dd_new"></span>
+		<div class="left">Comparte</div>
+	</div>
+
+	<div class="left like pointer clear" data-actedon="Gustado">
+		<span class="left dd_new"></span>
+		<div class="left">Me gusta</div>
+	</div>
+
+	<div class="left plan_to_watch pointer clear watchlist-item-479589" data-actedon="Agregado a Mi Lista" data-id="479589" data-title="Todo tiempo tiene su función en la vida" data-titleen="The time has a function in our life" data-description="Consejo universal. Recuerda que todo tiempo tiene su función en nuestra vida y hay que disfrutarlo al máximo." data-descriptionen="Remember that each time has a specific function in our life." data-url="http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion" data-thumbnailurl="http://s0.uvnimg.com/videos/especiales/photo/2014-07-03/todo-tiempo-tiene-su-funcion_148x99.jpg" data-duration="50" data-accessrules="" data-publishdate="2014-07-03 12:41:00" data-rating="TV-PG" data-expiredate="2015-06-26 13:41:00">
+		<span class="left dd_new"></span>
+		<div class="left">Agregar a Mi Lista</div>
+	</div>
+</div>				                </div>
+				            </div>
+
+				            <div id="new_right_zone" class="right">
+				                				                
+                    
+<div id="ad_300x60" style="">
+    <div class="ad_wrapper">
+        <span id="SSNT_2" class="_fwph">
+            <form id="_fw_form_SSNT_2" style="display:none">
+                <input type="hidden" name="_fw_input_SSNT_2" id="_fw_input_SSNT_2" value="w=300&amp;h=60&amp;envp=g_js">
+            </form>
+            <span id="_fw_container_SSNT_2"></span>
+        </span>
+    </div>
+</div>				            </div>
+
+                                                            
+
+
+
+	
+	
+
+
+	
+
+
+
+<div id="new_video_bottom_zone" class="float align_bottomleft nooverflow hide clear" style="">
+<div id="additional_video_info" class="hide clear">
+	<p class="description">Consejo universal. Recuerda que todo tiempo tiene su función en nuestra vida y hay que disfrutarlo al máximo.</p>
+	<div class="clear grey_txt">
+					Temp. 2014<span> | </span>
+		
+		
+					06/26/14<span> | </span>
+		
+		00:50
+
+					<span> | </span>
+			TV-PG
+			</div>
+</div>
+
+
+<div id="share_video" class="hide clear">
+	<div class="left share_icons clear">
+		<h6>Comparte</h6>
+		<div class="clear">
+			<div class="left dd_new fb_share pointer" data-url="http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion"></div>
+			<div class="left dd_new tw_share pointer" onclick="window.open('https://twitter.com/intent/tweet?url=http%3A%2F%2Funi.vi%2F3mtdml&amp;via=Univision&amp;text=Todo%20tiempo%20tiene%20su%20funci%26oacute%3Bn%20en%20la%20vida','blank','width=600,height=400,menubar=no,toolbar=no,resizable=no,scrollbars=yes');"></div>
+			<div class="left dd_new gp_share pointer" onclick="window.open('https://plus.google.com/share?url=http%3A%2F%2Fvideos.univision.com%2Fespeciales%2Fhablando-sola%2Fvideo%2F2014-07-03%2Fmi-espacio-todo-tiempo-tiene-su-funcion','blank', 'width=600,height=600,menubar=no,toolbar=no,resizable=yes,scrollbars=yes');"></div>
+			<div class="left dd_new pn_share pointer" onclick="window.open('http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fvideos.univision.com%2Fespeciales%2Fhablando-sola%2Fvideo%2F2014-07-03%2Fmi-espacio-todo-tiempo-tiene-su-funcion&amp;media=http%3A%2F%2Fs0.uvnimg.com%2Fvideos%2Fespeciales%2Fphoto%2F2014-07-03%2Ftodo-tiempo-tiene-su-funcion_574x323.jpg&amp;description=Consejo%20universal.%20Recuerda%20que%20todo%20tiempo%20tiene%20su%20funci%26oacute%3Bn%20en%20nuestra%20vida%20y%20hay%20que%20disfrutarlo%20al%20m%26aacute%3Bximo.','blank', 'width=600,height=300,menubar=no,toolbar=no,resizable=no,scrollbars=yes');"></div>
+		</div>
+	</div>
+
+	<div class="left share_dv"></div>
+
+	<div class="left email_area">
+		<h6>Envia un correo electrónico</h6>
+
+				<form action="/sendEmailToFriend.do" name="enviar_form" method="post" accept-charset="utf-8">
+			<input type="hidden" name="contentType" id="contentType" value="html">
+			<input type="hidden" name="contentTitle" id="contentTitle" value="Todo tiempo tiene su función en la vida">
+			<input type="hidden" name="contentDescription" id="contentDescription" value="Consejo universal. Recuerda que todo tiempo tiene su función en nuestra vida y hay que disfrutarlo al máximo.">
+			<input type="hidden" name="contentURL" id="contentURL" value="http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion">
+			<input type="hidden" name="imageURL" id="imageURL" value="http://s0.uvnimg.com/videos/especiales/photo/2014-07-03/todo-tiempo-tiene-su-funcion_148x99.jpg">
+			<input type="hidden" name="fromName" id="fromName" value="Univision Videos">
+			<input type="hidden" name="recipient1" id="recipient1" value="User">
+
+			<div class="new_input small_input from left clear">
+				<input type="text" id="email_from" class="left small_input grey_txt dd_new" value="De" name="emailFrom" data-original="De">
+				<span class="left dd_new"></span>
+			</div>
+			
+			<div class="new_input small_input recipient left clear">
+				<input type="text" id="email_recipient" class="left small_input grey_txt dd_new" value="Para" name="emailTo1" data-original="Para">
+				<span class="left dd_new"></span>
+			</div>
+
+			<div class="new_input_large message clear">
+				<textarea id="email_message" class="left grey_txt dd_new" data-original="Escribe tu comentario">Escribe tu comentario</textarea>
+				<span class="left dd_new"></span>
+			</div>
+
+			<div class="blue_btn_new clear pointer" id="send_message_btn">
+				<span class="dd_new bolden dshadow left btn_start">Envía</span>
+	            <span class="dd_new left btn_end"></span>
+	        </div>
+	    </form>
+	</div>
+
+	<div class="left share_dv"></div>
+
+	<div class="left code_area">
+		<h6>Copia Codigo</h6>
+
+				<div class="new_input code clear">
+			<input type="text" id="copy_code" class="left grey_txt dd_new" value="&lt;iframe width='592' height='333' src='http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion/embed' scrolling='no' frameborder='0' allowfullscreen&gt;&lt;/iframe&gt;">
+			<span class="left dd_new"></span>
+		</div>
+
+		<h6>Enlace</h6>
+
+		<div class="new_input code_url clear">
+			<input type="text" id="copy_code_url" class="left grey_txt dd_new" value="http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion/embed">
+			<span class="left dd_new"></span>
+		</div>
+	</div>
+</div>
+</div>                           
+			        	</div>
+			        </div>
+		    	</div>
+	    	</div>
+    	</div>
+
+                <div id="more_content" class="morecontent relate clear grain">
+            <div id="tile_gallery_shade" class="float dd_new align_topleft"></div>
+                                    
+                				
+				                    
+                				
+                                	
+
+
+
+	
+	
+	  
+  
+
+
+
+
+
+
+										
+				
+				
+
+	<div class="grid_wrapper grid_wrapper_209x118  relate invisible clear" data-height="118" data-imagesize="209x118" data-type="1" data-channelid="211" data-channeltype="videoCategory" data-exclude="479589" data-related="true" data-txtlimit="45" unselectable="on">
+		<div class="header_wrapper relate clear">
+			<h3 class="left bolden">
+				<a href="#" class="relate clear">
+					<span class="left uppercase">Episodios</span>
+					<span class="left dd_new"></span>
+				</a>
+			</h3>
+
+			<div class="filter float align_topright">
+				<div class="filter_wrapper_outer relate">
+					<div class="filter_wrapper_inner float align_bottomleft">
+						<div class="float align_topleft dd_new top_piece"></div>
+						<div class="float align_topleft middle_piece">
+							<div data-filter="recent" class="selected clear pointer">
+								<span class="left pointer capitalize bolden">Recién Actualizado</span>
+								<span class="right dd_new"></span>
+							</div>
+							<span data-filter="popular" class="hide relate capitalize pointer bolden">Más Populares</span>
+							<span data-filter="social" class="hide relate capitalize pointer bolden">Más Sociales</span>
+						</div>
+						<div class="float align_topleft dd_new bottom_piece"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="tiles_wrapper relate clear">
+							<div class="float arrow_shade arrow_shade_l z2 hide">
+					<div class="relate dd_new shade_top"></div>
+					<div class="relate dd_new shade_bottom"></div>
+				</div>
+				<div class="float arrow_shade arrow_shade_r z2">
+					<div class="relate dd_new shade_top"></div>
+					<div class="relate dd_new shade_bottom"></div>
+				</div>
+				<div class="left sarrow sarrowl sarrow_inactive">
+					<div class="dd_new float pointer"></div>
+				</div>
+						<div class="left cwrapper nooverflow">
+				<div class="cfloater float align_topleft clear">
+					<div class="left tile_item">
+						<a href="" class="relate">
+							<img src="http://s0.uvnimg.com/files/2013/07/13367/no_thumb_placeholder.jpg" class="relate" original="" width="209" height="118" alt="">
+
+							<div class="float time z4 clear">
+								<span class="left dd_new lpiece dark_shadow"></span>
+								<span class="left dd_new rpiece"></span>
+							</div>
+
+							<div class="float align_topright hide dd_new protected z4"></div>
+						</a>
+
+						<div class="relate tile_bottom_strip">
+							<a href="" class="desc relate bolden dark_shadow"></a>
+						</div>
+
+						<a href="" class="float viol violtype4 violimgtype15"></a>
+					</div>
+				</div>
+			</div>
+
+							<div class="left sarrow sarrowr">
+					<div class="dd_new float pointer"></div>
+				</div>
+					</div>
+
+		<div class="tooltip_wrapper float align_topleft zm1">
+			<div class="relate">
+				<div class="tooltip_item float align_topleft hide">
+					<div class="dd_new tooltip_top"></div>
+					<div class="dd_new float tooltip_arrow"></div>
+					<div class="tooltip_middle">
+						<h3><a></a></h3>
+						<span class="relate date"></span>
+
+						<div class="dv"></div>
+
+						<div class="clear">
+							<a href="#" class="left heart" data-actedon="Gustado">
+								<i class="left dd_new"></i>
+								<span class="left">
+									Login
+								</span>
+							</a>
+
+							<div class="right clear">
+								<div class="left likes"></div>
+								<div class="left people clear"></div>
+							</div>
+						</div>
+
+						<div class="dv"></div>
+
+						<p class="desc"><a></a></p>
+
+						<div class="dv"></div>
+
+						<div class="metadata clear"></div>
+
+						<div class="dv"></div>
+
+						<div class="act_btns clear">
+							<a class="dd_new left play nounderline dark_shadow clear">
+								<span class="dd_new left lpiece bolden uppercase">VER VIDEO</span>
+								<span class="dd_new left rpiece"></span>
+							</a>
+							
+							<a class="dd_new right watch nounderline dark_shadow clear" href="#" data-id="" data-title="" data-titleen="" data-description="" data-descriptionen="" data-url="" data-thumbnailurl="" data-duration="" data-accessrules="" data-publishdate="" data-rating="" data-expiredate="" data-actedon="Agregado">
+								<span class="dd_new left lpiece bolden uppercase clear"> <i class="left dd_new"></i> <b class="left">Mi Lista</b>
+								</span>
+								<span class="dd_new left rpiece"></span>
+							</a>
+						</div>
+					</div>
+					<div class="dd_new tooltip_bottom"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+	
+
+                                	
+
+
+
+	
+	
+	  
+  
+
+
+
+
+
+
+										
+				
+				
+
+	<div class="grid_wrapper grid_wrapper_281x158  relate invisible clear" data-height="158" data-imagesize="281x158" data-type="0" data-channelid="211" data-channeltype="videoCategory" data-exclude="479589" data-related="true" data-txtlimit="45" unselectable="on">
+		<div class="header_wrapper relate clear">
+			<h3 class="left bolden">
+				<a href="#" class="relate clear">
+					<span class="left uppercase">Clips</span>
+					<span class="left dd_new"></span>
+				</a>
+			</h3>
+
+			<div class="filter float align_topright">
+				<div class="filter_wrapper_outer relate">
+					<div class="filter_wrapper_inner float align_bottomleft">
+						<div class="float align_topleft dd_new top_piece"></div>
+						<div class="float align_topleft middle_piece">
+							<div data-filter="recent" class="selected clear pointer">
+								<span class="left pointer capitalize bolden">Recién Actualizado</span>
+								<span class="right dd_new"></span>
+							</div>
+							<span data-filter="popular" class="hide relate capitalize pointer bolden">Más Populares</span>
+							<span data-filter="social" class="hide relate capitalize pointer bolden">Más Sociales</span>
+						</div>
+						<div class="float align_topleft dd_new bottom_piece"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="tiles_wrapper relate clear">
+							<div class="float arrow_shade arrow_shade_l z2 hide">
+					<div class="relate dd_new shade_top"></div>
+					<div class="relate dd_new shade_bottom"></div>
+				</div>
+				<div class="float arrow_shade arrow_shade_r z2">
+					<div class="relate dd_new shade_top"></div>
+					<div class="relate dd_new shade_bottom"></div>
+				</div>
+				<div class="left sarrow sarrowl sarrow_inactive">
+					<div class="dd_new float pointer"></div>
+				</div>
+						<div class="left cwrapper nooverflow">
+				<div class="cfloater float align_topleft clear">
+					<div class="left tile_item">
+						<a href="" class="relate">
+							<img src="http://s0.uvnimg.com/files/2013/07/13367/no_thumb_placeholder.jpg" class="relate" original="" width="281" height="158" alt="">
+
+							<div class="float time z4 clear">
+								<span class="left dd_new lpiece dark_shadow"></span>
+								<span class="left dd_new rpiece"></span>
+							</div>
+
+							<div class="float align_topright hide dd_new protected z4"></div>
+						</a>
+
+						<div class="relate tile_bottom_strip">
+							<a href="" class="desc relate bolden dark_shadow"></a>
+						</div>
+
+						<a href="" class="float viol violtype4 violimgtype15"></a>
+					</div>
+				</div>
+			</div>
+
+							<div class="left sarrow sarrowr">
+					<div class="dd_new float pointer"></div>
+				</div>
+					</div>
+
+		<div class="tooltip_wrapper float align_topleft zm1">
+			<div class="relate">
+				<div class="tooltip_item float align_topleft hide">
+					<div class="dd_new tooltip_top"></div>
+					<div class="dd_new float tooltip_arrow"></div>
+					<div class="tooltip_middle">
+						<h3><a></a></h3>
+						<span class="relate date"></span>
+
+						<div class="dv"></div>
+
+						<div class="clear">
+							<a href="#" class="left heart" data-actedon="Gustado">
+								<i class="left dd_new"></i>
+								<span class="left">
+									Login
+								</span>
+							</a>
+
+							<div class="right clear">
+								<div class="left likes"></div>
+								<div class="left people clear"></div>
+							</div>
+						</div>
+
+						<div class="dv"></div>
+
+						<p class="desc"><a></a></p>
+
+						<div class="dv"></div>
+
+						<div class="metadata clear"></div>
+
+						<div class="dv"></div>
+
+						<div class="act_btns clear">
+							<a class="dd_new left play nounderline dark_shadow clear">
+								<span class="dd_new left lpiece bolden uppercase">VER VIDEO</span>
+								<span class="dd_new left rpiece"></span>
+							</a>
+							
+							<a class="dd_new right watch nounderline dark_shadow clear" href="#" data-id="" data-title="" data-titleen="" data-description="" data-descriptionen="" data-url="" data-thumbnailurl="" data-duration="" data-accessrules="" data-publishdate="" data-rating="" data-expiredate="" data-actedon="Agregado">
+								<span class="dd_new left lpiece bolden uppercase clear"> <i class="left dd_new"></i> <b class="left">Mi Lista</b>
+								</span>
+								<span class="dd_new left rpiece"></span>
+							</a>
+						</div>
+					</div>
+					<div class="dd_new tooltip_bottom"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+	
+
+                                	
+
+
+
+	
+	
+	  
+  
+
+
+
+
+
+
+								
+	<div class="grid_wrapper grid_wrapper_209x118 relate invisible hide clear" data-height="118" data-imagesize="209x118" data-exclude="479589" id="recommended_grid_wrapper" data-txtlimit="32" unselectable="on" style="">
+		<div class="header_wrapper relate clear">
+			<h3 class="left bolden">
+				<a href="#" class="relate clear">
+					<span class="left">Recomendado Para Ti</span>
+					<span class="left dd_new"></span>
+				</a>
+			</h3>
+
+			<div class="filter float align_topright">
+				<div class="filter_wrapper_outer relate">
+					<div class="filter_wrapper_inner float align_bottomleft">
+						<div class="float align_topleft dd_new top_piece"></div>
+						<div class="float align_topleft middle_piece">
+							<div data-filter="recent" class="selected clear pointer">
+								<span class="left pointer capitalize bolden">Recién Actualizado</span>
+								<span class="right dd_new"></span>
+							</div>
+							<span data-filter="popular" class="hide relate capitalize pointer bolden">Más Populares</span>
+							<span data-filter="social" class="hide relate capitalize pointer bolden">Más Sociales</span>
+						</div>
+						<div class="float align_topleft dd_new bottom_piece"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="tiles_wrapper relate clear">
+			<div class="float arrow_shade arrow_shade_l z2 hide">
+				<div class="relate dd_new shade_top"></div>
+				<div class="relate dd_new shade_bottom"></div>
+			</div>
+			<div class="float arrow_shade arrow_shade_r z2">
+				<div class="relate dd_new shade_top"></div>
+				<div class="relate dd_new shade_bottom"></div>
+			</div>
+			<div class="left sarrow sarrowl sarrow_inactive">
+				<div class="dd_new float pointer"></div>
+			</div>
+			<div class="left cwrapper nooverflow">
+				<div class="float cfloater align_topleft clear">
+					<div class="left tile_item">
+						<a href="" class="relate">
+							<img src="http://s0.uvnimg.com/files/2013/07/13367/no_thumb_placeholder.jpg" class="relate" original="" width="209" height="118" alt="">
+							<div class="float time z4 clear">
+								<span class="left dd_new lpiece dark_shadow"></span>
+								<span class="left dd_new rpiece"></span>
+							</div>
+
+							<div class="float align_topright hide dd_new protected z4"></div>
+						</a>
+
+						<div class="relate tile_bottom_strip">
+							<a href="" class="desc relate bolden dark_shadow"></a>
+						</div>
+
+						<a href="" class="float viol violtype4 violimgtype15"></a>
+					</div>
+				</div>
+			</div>
+			<div class="left sarrow sarrowr">
+				<div class="dd_new float pointer"></div>
+			</div>
+		</div>
+
+		<div class="tooltip_wrapper float align_topleft zm1">
+			<div class="relate">
+				<div class="tooltip_item float align_topleft hide">
+					<div class="dd_new tooltip_top"></div>
+					<div class="dd_new float tooltip_arrow"></div>
+					<div class="tooltip_middle">
+						<h3><a></a></h3>
+						<span class="relate date"></span>
+
+						<div class="dv"></div>
+
+						<div class="clear">
+							<a href="#" class="left heart" data-actedon="Gustado">
+								<i class="left dd_new"></i>
+								<span class="left">
+									Login
+								</span>
+							</a>
+
+							<div class="right clear">
+								<div class="left likes"></div>
+								<div class="left people clear"></div>
+							</div>
+						</div>
+
+						<div class="dv"></div>
+
+						<p class="desc"><a></a></p>
+
+						<div class="dv"></div>
+
+						<div class="metadata clear"></div>
+
+						<div class="dv"></div>
+
+						<div class="act_btns clear">
+							<a class="dd_new left play nounderline dark_shadow clear">
+								<span class="dd_new left lpiece bolden uppercase">VER VIDEO</span>
+								<span class="dd_new left rpiece"></span>
+							</a>
+							
+							<a class="dd_new right watch nounderline dark_shadow clear" href="#" data-id="" data-title="" data-titleen="" data-description="" data-descriptionen="" data-url="" data-thumbnailurl="" data-duration="" data-accessrules="" data-publishdate="" data-rating="" data-expiredate="" data-actedon="Agregado">
+								<span class="dd_new left lpiece bolden uppercase clear"> <i class="left dd_new"></i> <b class="left">Mi Lista</b>
+								</span>
+								<span class="dd_new left rpiece"></span>
+							</a>
+						</div>
+					</div>
+					<div class="dd_new tooltip_bottom"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+
+                                
+	
+		
+				
+                                        </div>
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+			
+			
+
+				
+					
+					
+
+
+
+
+
+
+
+	<!--[if gt IE 8]><!-->
+	<header id="new_header" class="fix grain zm1 clear crosssite">
+	<!--<![endif]-->
+	<!--[if lte IE 8]>
+	<div id="new_header" class="fix grain zm1 clear crosssite">
+	<![endif]-->
+
+	
+
+
+
+	
+	
+	
+	
+
+
+	
+	
+
+
+
+	<div class="header_top clear">
+	
+	
+		
+		
+		
+		<a id="return_to_site_new" class="left clear" href="http://www.univision.com/">
+			<span class="left dd_new"></span>
+			<span class="left refLink">Regresar a <strong>Univision.com</strong></span>
+		</a>
+		
+		
+	
+	
+
+	<a href="http://foro.univision.com/t5/UVideos-com/bd-p/uvideos?ftloc=foros:uvideos-site" target="_blank" class="right forum_link"><span class="blue_txt">Foro:</span> Ayúdanos a mejorar la portada de UVideos</a>
+	</div>
+
+	<div class="header_overlay clear">
+		<a id="logo" href="http://videos.univision.com/" class="dd_new left" title="Regresa a la Portada de UVideos.com"></a>
+
+		<div class="left divider"></div>
+
+		
+
+
+
+
+	
+<ul id="new_menu" class="left clear">
+													
+		<li class="left first">
+			<a href="http://videos.univision.com/shows" class="bolden dd_new">
+				<span class="dd_new uppercase">Shows</span>
+			</a>
+		</li>
+							
+		<li class="left">
+			<a href="http://videos.univision.com/novelas" class="bolden dd_new">
+				<span class="dd_new uppercase">Novelas</span>
+			</a>
+		</li>
+							
+		<li class="left">
+			<a href="http://videos.univision.com/series/" class="bolden dd_new">
+				<span class="dd_new uppercase">Series</span>
+			</a>
+		</li>
+							
+		<li class="left">
+			<a href="http://videos.univision.com/noticias" class="bolden dd_new">
+				<span class="dd_new uppercase">Noticias</span>
+			</a>
+		</li>
+							
+		<li class="left">
+			<a href="http://videos.univision.com/deportes" class="bolden dd_new">
+				<span class="dd_new uppercase">Deportes</span>
+			</a>
+		</li>
+							
+		<li class="left sel">
+			<a href="http://videos.univision.com/especiales" class="bolden dd_new">
+				<span class="dd_new uppercase">Especiales</span>
+			</a>
+		</li>
+												
+		<li class="left last">
+			<a href="http://videos.univision.com/cadenas/" class="bolden dd_new">
+				<span class="dd_new uppercase">Networks</span>
+			</a>
+		</li>
+	</ul>
+
+	<div class="menu_drop float hide clear z1" rel="0">
+	<div class="dd_new float close"></div>
+		<div class="contain clear">
+						<div class="left clear bullets">
+													<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/despierta-america">
+					 Despierta América
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/el-gordo-y-la-flaca">
+					 El Gordo y La Flaca
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/sal-y-pimienta">
+					Sal y Pimienta
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/sabado-gigante">
+					Sábado Gigante
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/hoy-soy-nadie">
+					Hoy Soy Nadie
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/los-heroes-del-norte">
+					Los Héroes del Norte
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/nuestra-belleza-latina">
+					Nuestra Belleza Latina 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/primer-impacto">
+					Primer Impacto
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/hoy">
+					Hoy
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/aqui-y-ahora">
+					 Aquí y Ahora
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/al-punto">
+					Al Punto
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/a-que-te-ries">
+					A Que Te Ríes
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/al-derecho-y-al-derbez">
+					AL Derecho y Al Derbez
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/amor-didas">
+					Amor-Didas
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/bienvenidos">
+					Bienvenidos 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/casos-de-familia">
+					Casos de Familia
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/contacto-deportivo">
+					Contacto Deportivo
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/el-chavo-animado">
+					El Chavo Animado 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/el-chavo">
+					El Chavo
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/el-palenque-de-enrique-santos">
+					El Palenque de Enrique Santos
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/el-privilegio-de-mandar">
+					El Privilegio de Mandar
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/escuadron-paranormal">
+					Escuadrón Paranormal
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/glam-girls">
+					Glam Girls
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/plan-b">
+					Plan B
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/in-studio">
+					InStudio
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/laura">
+					Laura
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/la-casa-de-la-risa">
+					La Casa de la Risa
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/la-hora-pico">
+					La Hora Pico
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/mas-alla-de-la-belleza">
+					Más Allá de la Belleza  
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/miembros-al-aire">
+					Miembros Al Aire
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/mistico-e-inexplicable">
+					Místico e Inexplicable 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/milagros-decodificados">
+					Milagros Decodificados
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/pasillo-tv">
+					Pasillo TV
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/puedes-con-100">
+					¿Puedes con 100?
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/premios-juventud">
+					Premios Juventud
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/que-locura">
+					 ¡Qué Locura!
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/quien-se-robo-el-show">
+					¿Quién Se Robó El Show?
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/quien-tiene-la-razon">
+					¿Quién tiene la razón?
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/republica-deportiva">
+					República Deportiva
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/sabadazo">
+					Sabadazo
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/susana-adiccion">
+					SuSana Adicción
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/tras-la-verdad">
+					Tras la Verdad   
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/turnocturno">
+					Turnocturno
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/va-por-ti">
+					Va Por Tí
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/vecinos">
+					Vecinos
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href=" http://videos.univision.com/shows/latin-grammy">
+					Latin Grammy 2014
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/la-cocina-en-los-pueblos-magicos">
+					La cocina en los pueblos mágicos
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/la-banda">
+					La Banda
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/mas/especial-jenni-rivera-desaparicion">
+					Especial Jenni Rivera
+				</a>
+								</div>
+										
+										
+						<span></span>
+		</div>
+	</div>
+</div>
+	<div class="menu_drop float hide clear z1" rel="1">
+	<div class="dd_new float close"></div>
+		<div class="contain clear">
+						<div class="left clear bullets">
+													<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/lo-que-la-vida-me-robo">
+					Lo Que La Vida Me Robó
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/que-pobres-tan-ricos">
+					Qué Pobres Tan Ricos
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/metastasis">
+					Metástasis
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/mentir-para-vivir">
+					Mentir Para Vivir 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/el-chivo">
+					El Chivo
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/quiero-amarte">
+					Quiero Amarte
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/de-que-te-quiero-te-quiero">
+					De que te quiero, Te quiero
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/la-madrastra">
+					La Madrastra
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/besos-ardientes">
+					Besos Ardientes
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/las-mejores-bodas-de-telenovela">
+					Las mejores bodas de telenovela
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/pasion-de-novela">
+					Pasión de Novela 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/premios-tv-y-novelas">
+					Premios TVyNovelas 2014
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/mi-corazon-es-tuyo">
+					Mi Corazón es Tuyo
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/la-malquerida">
+					La Malquerida
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/hasta-el-fin-del-mundo">
+					Hasta el Fin del Mundo
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/la-gata">
+					La Gata
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href=" http://videos.univision.com/novelas/cosita-linda">
+					Cosita Linda
+				</a>
+								</div>
+										
+										
+						<span></span>
+		</div>
+	</div>
+</div>
+	<div class="menu_drop float hide clear z1" rel="2">
+	<div class="dd_new float close"></div>
+		<div class="contain clear">
+						<div class="left clear bullets">
+													<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/series/pablo-escobar">
+					El patrón del mal
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/metastasis">
+					Metástasis
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/la-rosa-de-guadalupe">
+					La Rosa de Guadalupe
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/glam-girls">
+					Glam Girls
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/los-heroes-del-norte">
+					Los Héroes del Norte
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/el-chavo">
+					El Chavo
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/el-chavo-animado">
+					El Chavo Animado
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/series/como-dice-el-dicho">
+					Como Dice el Dicho
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/novelas/munecas-de-la-mafia">
+					Las Muñecas de la Mafia
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/series/el-encanto-del-aguila">
+					El encanto del águila
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/series/gritos-de-muerte-y-libertad">
+					Gritos de Muerte y Libertad
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/series/durmiendo-con-mi-jefe">
+					Durmiendo con mi jefe
+				</a>
+								</div>
+										
+										
+						<span></span>
+		</div>
+	</div>
+</div>
+	<div class="menu_drop float hide clear z1" rel="3">
+	<div class="dd_new float close"></div>
+		<div class="contain clear">
+						<div class="left clear bullets">
+													<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/primer-impacto">
+					Primer Impacto
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/noticias/consulta-con-el-doctor-juan">
+					Consulta con el Dr. Juan 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/al-punto">
+					Al Punto
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/noticias/america-latina">
+					América Latina
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/aqui-y-ahora">
+					Aquí y Ahora
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/noticiero-univision">
+					Noticiero Univision
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/noticias/asegurate-aqui">
+					Asegúrate Aquí 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/noticias/dinero-en-tu-bolsillo">
+					Dinero en tu bolsillo 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/noticias/documentales-univision">
+					Documentales Univision
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/noticias/el-papa-francisco">
+					El papa Francisco 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/noticias/estados-unidos">
+					Estados Unidos
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/noticias/inmigracion">
+					Inmigración
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/noticias/mexico">
+					México
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/noticias/mundo">
+					Mundo
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/noticias/narcotrafico">
+					Narcotráfico 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/noticias/punto-y-seguido">
+					Punto y Seguido 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/noticias/univision-investiga">
+					Univision Investiga
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/noticias/vida-sana-con-cecilia-ramirez">
+					Vida Sana con Cecilia 
+				</a>
+								</div>
+										
+										
+						<span></span>
+		</div>
+	</div>
+</div>
+	<div class="menu_drop float hide clear z1" rel="4">
+	<div class="dd_new float close"></div>
+		<div class="contain clear">
+						<div class="left clear bullets">
+													<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/camino-al-mundial-2014">
+					Camino al Mundial 2014 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/contacto-deportivo">
+					Contacto Deportivo
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/fanaticos-del-frio">
+					Fanáticos del Frío 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/futbol-central">
+					Fútbol Central 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/futbol-club">
+					Fútbol Club 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/futbol-liga-mexicana">
+					Fútbol Liga Mexicana
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/jugadas-top-de-la-liga-mexicana">
+					Jugadas top de la Liga MX 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/libreta-de-apuntes">
+					Libreta de Apuntes 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/mas-futbol">
+					Más Fútbol
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/mls">
+					MLS 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/otros-deportes">
+					Otros Deportes
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/preguntale-a-los-jugadores">
+					Pregúntale A Los Jugadores 
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/republica-deportiva">
+					República Deportiva
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/seleccion-mexicana">
+					Selección Nacional Mexicana
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/solo-boxeo">
+					Sólo Boxeo
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/deportes/futbol-usa">
+					Selección USA
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/mas/primer-descenso-michoacan">
+					Primer Descenso Michoacán
+				</a>
+								</div>
+										
+										
+						<span></span>
+		</div>
+	</div>
+</div>
+	<div class="menu_drop float hide clear z1" rel="5">
+	<div class="dd_new float close"></div>
+		<div class="contain clear">
+						<div class="left clear bullets">
+													<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/va-por-ti">
+					Va Por Ti
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/shows/nuestra-belleza-latina">
+					Nuestra Belleza Latina
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/mas/primer-descenso-michoacan">
+					Primer Descenso Michoacán
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/especiales/hablando-sola">
+					Hablando Sola
+				</a>
+								</div>
+										
+										
+						<span></span>
+		</div>
+	</div>
+</div>
+	<div class="menu_drop float hide clear z1" rel="6">
+	<div class="dd_new float close"></div>
+		<div class="contain clear">
+						<div class="left clear bullets">
+													<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/cadenas/univision/">
+					Univision
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/cadenas/galavision/">
+					Galavisión
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/cadenas/uvideos/">
+					UVideos
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/cadenas/unimas/">
+					Unimás
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/cadenas/el-rey/">
+					El Rey
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/cadenas/flama/">
+					Flama
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos-prv.uim.univision.com/cadenas/variety-latino/">
+					Variety Latino
+				</a>
+								</div>
+															<div class="left column">
+								<a class="dd_new" href="http://videos.univision.com/especiales/mitu">
+					MiTú
+				</a>
+								</div>
+										
+										
+						<span></span>
+		</div>
+	</div>
+</div>
+
+
+
+		<div class="left divider dividerlm"></div>
+
+				<div class="left long_search dd_new hide clear">
+			<input type="text" id="long_search" class="left dd_new" value="Buscar videos">
+			<span class="float hide dd_new"></span>
+		</div>
+
+		<div class="search_drop float hide clear z1">
+			<div class="dd_new float close"></div>
+			<div class="contain clear">
+				<div class="wrapper clear">
+					<div class="center clear">
+						<div class="left dd_new bpart"></div>
+						<input type="text" class="left dd_new" value="Buscar videos">
+						<div class="left dd_new epart"><span id="empty_drop_search" class="float hide dd_new"></span></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+				
+
+
+		<div id="logged_in" class="right auth_social clear z1 hide">
+						<div class="mvpd left">
+				<div class="left dd_new auth hide" alt="logout"></div>
+				<div class="left dd_new lkey nonauth"></div>
+			</div>					
+							
+			<div class="authpopup header_pop fix z1 hide account_info auth_pop">
+				<div class="account_outer_wrapper">
+					<div class="float dd_new pointer"></div>
+
+					<div class="float corner top clear">
+						<span class="left dd_new cfirst"></span>
+						<span class="left grain second"></span>
+						<span class="left dd_new third"></span>
+					</div>
+
+					<div class="middle z1 grain clear">
+						<div class="line first clear">
+							<div class="wrapper clear nonauth">
+								<span class="left blue_txt bolden uppercase" rel="normal">¿Qué significa el símbolo de la llave que aparece sobre los videos?</span>
+								<span class="right dd_new close_btn"></span>
+							</div>
+
+							<div class="wrapper clear auth hide">
+								<span class="left blue_txt bolden" rel="normal"></span>
+							 	<span class="right dd_new pointer2 close_btn"></span>
+							</div>
+						</div>
+
+						<div class="left information nonauth">
+							 <span>La llave que aparece sobre los videos indica que es necesario registrarte con tu proveedor de servicio de TV para ver los episodios más recientes en UVideos.</span>
+							 
+							 <div class="faq" style="display: inline-block; width: 100%; text-align: center;">
+							 	<a class="pointer2 faq-link" style="margin-right: 135px; height: 20px;">
+							 		<span class="bolden float pointer2 blue_txt">Descubre más</span>
+							 	</a>
+							 </div>
+						</div>
+
+						<div class="left information auth hide">
+							 <span class="mvpd"></span>
+							 <div class="faq logout pointer2">
+							 	<a href="#" class="dd_new pointer2 relate">
+							 		<span class="pointer2 dd_new float uppercase">Salir</span>
+							 	</a>
+							 </div>
+						</div>
+					</div>
+
+					<div class="float corner bottom clear">
+						<span class="left dd_new cfirst"></span>
+						<span class="left grain second"></span>
+						<span class="left dd_new third"></span>
+					</div>
+				</div>
+			</div>
+			
+			<div class="left dd_new social_zone clear">
+				<div class="dd_new wrapper clear">
+					<a class="left user_img" href="http://mipagina.univision.com/go/mi/portada?output_method=ajax">
+						<img src="http://s0.uvnimg.com/files/crm/avatar.jpg" data-default_src="http://onesite.uvnimg.com/mipagina.univision.com/user/empty/avatar.jpg" height="22" width="22" alt="empty">
+					</a>
+
+					<div class="left dd_new warrow"></div>
+
+					<div class="left divider"></div>
+
+					<span class="left bolden txt" id="social_switch">SOCIAL</span>
+
+					<div id="user_sharing" data-current="NO" data-switch="SI" class="left dd_new green_btn red_btn" data-sharing="false">
+						<span class="dd_new bolden">NO</span>
+					</div>
+
+
+				  <div class="left divider"></div>
+				  <span class="left bolden txt language_switch">ENGLISH</span>
+
+				</div>
+			</div>
+		</div>
+
+		<div id="not_logged" class="right auth_social not_logged clear active_login_status">
+			
+            <div class="mvpd left">
+				<div class="left dd_new auth hide" alt="logout"></div>
+				<div class="left dd_new lkey nonauth"></div>
+			</div>					
+							
+			<div class="authpopup header_pop fix z1 hide account_info auth_pop">
+				<div class="account_outer_wrapper">
+					<div class="float dd_new pointer"></div>
+
+					<div class="float corner top clear">
+						<span class="left dd_new cfirst"></span>
+						<span class="left grain second"></span>
+						<span class="left dd_new third"></span>
+					</div>
+
+					<div class="middle z1 grain clear">
+						<div class="line first clear">
+							<div class="wrapper clear nonauth">
+								<span class="left bolden uppercase" rel="normal" style="font-size: 13px;">¿Qué significa el símbolo de la llave que aparece sobre los videos?</span>
+								<!--span class="right dd_new close_btn"></span-->
+							</div>
+
+							<div class="wrapper clear auth hide">
+								<span class="left blue_txt bolden" rel="normal"></span>
+							 	<span class="right dd_new pointer2 close_btn"></span>
+							</div>
+						</div>
+
+						<div class="left information nonauth">
+							 <span>La llave que aparece sobre los videos indica que es necesario registrarte con tu proveedor de servicio de TV para ver los episodios más recientes en UVideos.</span>
+							 <br>
+							 <div class="register" style="display: inline-block;">
+							 	<button class="yellow_btn bold" id="register-btn">
+									REGÍSTRATE
+								</button>
+							 </div>
+
+							 <div class="faq" style="display: inline-block;">
+							 	<a class="pointer2 faq-link">
+							 		<span class="bolden float pointer2 blue_txt">Descubre más</span>
+							 	</a>
+							 </div>
+						</div>
+
+						<div class="left information auth hide">
+							 <span class="mvpd"></span>
+							 <div class="faq logout pointer2">
+							 	<a href="#" class="dd_new pointer2 relate">
+							 		<span class="pointer2 dd_new float uppercase">Salir</span>
+							 	</a>
+							 </div>
+						</div>
+					</div>
+
+					<div class="float corner bottom clear">
+						<span class="left dd_new cfirst"></span>
+						<span class="left grain second"></span>
+						<span class="left dd_new third"></span>
+					</div>
+				</div>
+			</div>
+			
+			<div class="left dd_new social_zone clear">
+				<div class="dd_new wrapper clear">
+					<span class="auth_text">
+						<a id="login" class="left bolden txt uppercase">LOGIN</a>
+
+						<span class="left bolden txt">&nbsp;&nbsp;/&nbsp;&nbsp;</span>
+
+						<a id="signup" class="left bolden txt uppercase">INSCRÍBETE</a>
+					</span>
+
+					<div class="left divider"></div>
+					<a class="left bolden txt uppercase language_switch">ENGLISH</a>
+
+
+				</div>
+			</div>
+		</div>
+
+				<div id="account_info" class="header_pop fix z1 hide">
+			<div class="account_outer_wrapper">
+				<div class="float dd_new pointer"></div>
+
+				<div class="float corner top clear">
+					<span class="left dd_new cfirst"></span>
+					<span class="left grain second"></span>
+					<span class="left dd_new third"></span>
+				</div>
+
+				<div class="middle z1 grain clear">
+					<div class="line first clear">
+						<div class="wrapper clear">
+							<span class="left blue_txt bolden" rel="normal">Mi Cuenta</span>
+							<div class="float hide settings" rel="settings">
+								<div class="left bolden dd_new" rel="account">
+									Cuenta
+								</div>
+								<div class="left bolden blue_txt">
+									Ajustes
+								</div>
+							</div>
+
+							<div class="float hide settings" rel="activity">
+								<div class="left bolden dd_new" rel="account">
+									Cuenta
+								</div>
+								<div class="left bolden dd_new" rel="settings">
+									Ajustes
+								</div>
+								<div class="left bolden blue_txt">
+									Tu Actividad
+								</div>
+							</div>
+
+							<div class="float hide settings" rel="watchlist">
+								<div class="left bolden dd_new" rel="account">
+									Cuenta
+								</div>
+								<div class="left bolden blue_txt">
+									Mira tu lista
+								</div>
+							</div>
+
+							<div class="float hide settings" rel="recent">
+								<div class="left bolden dd_new" rel="account">
+									Cuenta
+								</div>
+								<div class="left bolden blue_txt">
+									Recientemente Visto
+								</div>
+							</div>
+
+							<span class="right dd_new close_btn"></span>
+						</div>
+					</div>
+
+					<div id="account_screen" class="screen_container">
+						<div class="line sec clear" rel="settings">
+							<a href="http://mipagina.univision.com/go/mi/portada?output_method=ajax" class="left img">
+								<img src="http://s0.uvnimg.com/files/crm/avatar.jpg" data-default_src="http://onesite.uvnimg.com/mipagina.univision.com/user/empty/avatar.jpg" alt="empty" width="38" height="38">
+							</a>
+
+							<a href="#" class="left">Ajustes</a>
+
+							<span class="right dd_new arrow"></span>
+						</div>
+
+						<div class="line clear" rel="watchlist">
+							<span href="#" class="left dd_new wlist"></span>
+							<a href="#" class="left">Mira tu lista</a>
+							<span class="right dd_new arrow"></span>
+						</div>
+
+						<div class="line clear" rel="recent">
+							<span href="#" class="left dd_new recent"></span>
+							<a href="#" class="left">Recientemente Visto</a>
+							<span class="right dd_new arrow"></span>
+						</div>
+
+						<div class="line last clear" rel="none">
+							<div class="dd_new sout" id="account_logout">
+								<div class="dd_new bolden">
+									Cerrar Sesion
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div id="settings_screen" class="hide screen_container">
+						<div class="line sec fbuser clear" rel="none">
+							<a href="http://mipagina.univision.com/go/mi/portada?output_method=ajax" class="left img">
+								<img src="http://s0.uvnimg.com/files/crm/avatar.jpg" alt="empty" width="38" height="38">
+							</a>
+
+							<div class="left user_title">
+								<a href="http://mipagina.univision.com/go/mi/portada?output_method=ajax">empty</a>
+								<span>Usuario de Univision</span>
+							</div>
+						</div>
+
+						<div id="activity_enable" class="hide line clear" rel="activity">
+							<span href="#" class="left dd_new alist"></span>
+							<a href="#" class="left">Tu Actividad</a>
+							<span class="right dd_new arrow"></span>
+						</div>
+
+						<div class="line disclaimer clear" rel="none">
+							<div class="txt"><span>Sabemos su nombre y correo electronico de su inscripcion via Facebook en Uvideos.com.</span></div>
+							<div class="txts"><span>Para cambiar la configuracion para compartir, por favor vaya a su configuracion de cuenta en <a href="https://www.facebook.com" class="blue_txt">Facebook.</a></span></div>
+						</div>
+
+						<div class="line last clear" rel="none">
+							<div class="dd_new sout" id="settings_logout">
+								<div class="dd_new bolden">
+									Cerrar Sesion
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div id="activity_screen" class="hide screen_container">
+                        <div id="activity_scrollable" class="relate"><div id="activity_user" class="float"></div></div>
+
+                        <div class="activity_empty dshadow hide">
+                            <strong class="blue_txt">No hay actividades disponibles en este momento.</strong>
+                        </div>
+
+                        <div class="float scroll" id="activity_scroll">
+                            <div class="float bar">
+                                <div class="dd_new top"></div>
+                                <div class="dd_new bottom"></div>
+                            </div>
+                        </div>
+					</div>
+
+					<div id="watchlist_screen" class="hide relate screen_container">
+						<div id="watchlist_scrollable" class="relate loading"><div id="watchlist_user" class="float"></div></div>
+
+						<div class="watchlist_empty dshadow hide">
+							<strong class="blue_txt">No hay videos en tu lista en este momento.</strong>Agrega videos haciendo click en el icono <i class="dd"></i> al lado de cada video.
+						</div>
+
+						<div class="line last clear" rel="none">
+							<div class="dd_new sout cwatch" id="clearwatchlist">
+								<div class="dd_new bolden">
+									Borrar Mi Lista
+								</div>
+							</div>
+						</div>
+
+						<div class="float scroll" id="watchlist_scroll">
+							<div class="float bar">
+								<div class="dd_new top"></div>
+								<div class="dd_new bottom"></div>
+							</div>
+						</div>
+					</div>
+
+					<div id="recent_screen" class="hide relate screen_container">
+						<div id="recent_scrollable" class="relate"><div id="recent_user" class="float"></div></div>
+
+						<div class="recent_empty dshadow hide">
+							<strong class="blue_txt">No has visto ningun video aun.</strong>
+						</div>
+
+						<div class="line last clear" rel="none">
+							<div class="dd_new sout crecent" id="clearrecent">
+								<div class="dd_new bolden">
+									Borrar Recientemente Visto
+								</div>
+							</div>
+						</div>
+
+						<div class="float scroll" id="recent_scroll">
+							<div class="float bar">
+								<div class="dd_new top"></div>
+								<div class="dd_new bottom"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="float corner bottom clear">
+					<span class="left dd_new cfirst"></span>
+					<span class="left grain second"></span>
+					<span class="left dd_new third"></span>
+				</div>
+			</div>
+		</div>
+
+		<div id="watchlist_tooltip" class="header_pop fix z1 hide">
+			<div class="account_outer_wrapper">
+				<div class="float dd_new pointer"></div>
+
+				<div class="float corner top clear">
+					<span class="left dd_new cfirst"></span>
+					<span class="left grain second"></span>
+					<span class="left dd_new third"></span>
+				</div>
+
+				<div class="middle z1 grain clear">
+					<div class="line first clear">
+						<div class="wrapper clear blue_txt">
+							<strong class="blue_txt">Video agregado a Tu Lista</strong>
+							<span class="right dd_new close_btn"></span>
+						</div>
+					</div>
+
+					<div id="watchlist_tooltip_item" class="line clear"></div>
+
+					<div class="line last clear"><strong class="blue_txt watchlist_tooltip_action">Haz click aqui para ver Tu Lista</strong></div>
+				</div>
+
+				<div class="float corner bottom clear">
+					<span class="left dd_new cfirst"></span>
+					<span class="left grain second"></span>
+					<span class="left dd_new third"></span>
+				</div>
+			</div>
+		</div>
+
+		<div id="social_info_tooltip_off" class="header_pop fix z1 hide">
+			<div class="account_outer_wrapper">
+				<div class="float dd_new pointer"></div>
+
+				<div class="float corner top clear">
+					<span class="left dd_new cfirst"></span>
+					<span class="left grain second"></span>
+					<span class="left dd_new third"></span>
+				</div>
+
+				<div class="middle z1 grain clear">
+					<div class="line first clear">
+						<div class="wrapper clear blue_txt">
+							<strong class="blue_txt uppercase">SOCIAL DESACTIVADO</strong>
+							<span class="right dd_new close_btn"></span>
+						</div>
+					</div>
+
+					<div class="tooltip_desc clear">
+						Tu cuenta de UVideos esta vinculada a Facebook. Videos que veas no seran compartidos. Click el boton rojo para ACTIVAR.
+					</div>
+				</div>
+
+				<div class="float corner bottom clear">
+					<span class="left dd_new cfirst"></span>
+					<span class="left grain second"></span>
+					<span class="left dd_new third"></span>
+				</div>
+			</div>
+		</div>
+
+		<div id="social_info_tooltip_on" class="header_pop fix z1 hide">
+			<div class="account_outer_wrapper">
+				<div class="float dd_new pointer"></div>
+
+				<div class="float corner top clear">
+					<span class="left dd_new cfirst"></span>
+					<span class="left grain second"></span>
+					<span class="left dd_new third"></span>
+				</div>
+
+				<div class="middle z1 grain clear">
+					<div class="line first clear">
+						<div class="wrapper clear blue_txt">
+							<strong class="blue_txt uppercase">SOCIAL ACTIVADO</strong>
+							<span class="right dd_new close_btn"></span>
+						</div>
+					</div>
+
+					<div class="tooltip_desc clear">
+						Tu cuenta de UVideos esta vinculada a Facebook. Videos que veas seran compartidos. Click el boton rojo para DESACTIVAR.
+					</div>
+				</div>
+
+				<div class="float corner bottom clear">
+					<span class="left dd_new cfirst"></span>
+					<span class="left grain second"></span>
+					<span class="left dd_new third"></span>
+				</div>
+			</div>
+		</div>
+
+		<div id="autoSuggestResults" class="float clear z2 hide">
+			<div class="dd_new float close"></div>
+			<div class="contain clear">
+				<div class="left clear bullets"></div>
+			</div>
+		</div>
+	</div>
+
+<!--[if gt IE 8]><!-->
+</header>
+<!--<![endif]-->
+<!--[if lte IE 8]>
+</div>
+<![endif]-->
+
+<div class="fix header_bottom_border z2"></div>
+					
+				
+			
+		
+	
+	
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+			
+			
+
+				
+					
+					
+
+<!--[if gt IE 8]><!-->
+<footer id="footer" class="relate z1 grain clear">
+<!--<![endif]-->
+<!--[if lte IE 8]>
+<div id="footer" class="relate z1 grain clear">
+<![endif]-->
+	<span class="left copyright" label="copyright">Copyright. ©2013. Univision Communications Inc. Todos Los Derechos Reservados.</span>
+	<a href="http://videos.univision.com/terminos-de-uso" class="left">Términos de Uso</a>
+	<a href="http://videos.univision.com/terminos-de-uso#pp" class="left">Política Sobre Privacidad/Sus Derechos de Privacidad en California</a>
+	<a href="http://videos.univision.com/preguntas-frecuentes" class="left">Preguntas Frecuentes</a>
+	<div class="right hide clear">
+		<span class="left" label="powered">Apoyado por</span>
+		<a href="http://www.neulion.com/" class="left dd_new neulion"></a>
+	</div>
+<!--[if gt IE 8]><!-->
+</footer>
+<!--<![endif]-->
+<!--[if lte IE 8]>
+</div>
+<![endif]-->
+
+<div id="sugerencias" class="fix dd_new z1 align_bottomleft bolden pointer"></div>
+
+<div id="ad_1by1" class="hide">
+
+
+
+
+
+
+
+	
+								
+				
+		
+			<div class="pub_1x1">
+					
+		<div id="ad_1x1" class="ad">
+	
+			<script src="http://de7.univision.com/js.ng/SITE=AUDIT&amp;SIZE=0x0&amp;bust=376293"></script><a target="_top" href="http://de7.univision.com:80/event.ng/Type=click&amp;FlightID=8944&amp;AdID=14978&amp;TargetID=3744&amp;ASeg=&amp;AMod=&amp;Segments=2797,4849,6288,7826,13915,14255,14653,14724,16977,18801,26919,28116&amp;Targets=3744,13795,46124&amp;Values=51,82,100,521,5510,8586,10812,11695,11785,11819,18065,18129&amp;RawValues=&amp;Redirect=http%3A//"><img src="http://ads.univision.com/ads/abciaudit/1x1_ABCiAudit.gif" border="0" height="1" width="1" alt=""></a><iframe marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" width="0" height="0" src="http://de7.univision.com/html.ng/SITE=AUDIT&amp;CHANNEL=VIDEOPORTAL&amp;SUBCHANNEL=PROGRAMASCOMPLETOS&amp;SECTION=UVIDEOS&amp;CONTENT=VIDEOPAGE&amp;PARTNER=TELEVISA&amp;CLIENT=ONLINE&amp;CR=223&amp;D=501&amp;Z2=10&amp;Z3=101&amp;S=NEW+YORK&amp;T=-5&amp;SRT=none&amp;DP=LM&amp;PRELANG=SP&amp;TLD=net&amp;SLD=univision&amp;PUB=VIDEOPORTAL&amp;SHOW=HABLANDOSOLA&amp;SIZE=1x1&amp;cid=video479589&amp;bust=399413">&lt;script type="text/javascript" src="http://de7.univision.com/js.ng/Params.richmedia=yes&amp;amp;SITE=AUDIT&amp;amp;CHANNEL=VIDEOPORTAL&amp;amp;SUBCHANNEL=PROGRAMASCOMPLETOS&amp;amp;SECTION=UVIDEOS&amp;amp;CONTENT=VIDEOPAGE&amp;amp;PARTNER=TELEVISA&amp;amp;CLIENT=ONLINE&amp;amp;CR=223&amp;amp;D=501&amp;amp;Z2=10&amp;amp;Z3=101&amp;amp;S=NEW+YORK&amp;amp;T=-5&amp;amp;SRT=none&amp;amp;DP=LM&amp;amp;PRELANG=SP&amp;amp;TLD=net&amp;amp;SLD=univision&amp;amp;PUB=VIDEOPORTAL&amp;amp;SHOW=HABLANDOSOLA&amp;amp;SIZE=1x1&amp;amp;cid=video479589&amp;amp;bust=399413"&gt;&lt;/script&gt;</iframe><script type="text/javascript">try { amznads.setTargetingForGPTAsync('amznslots');} catch(e) { /*ignore*/} </script><img width="0" height="0" src="http://imp.univision.com/1x1_imp.gif?trt=450&amp;iid=10&amp;TYPE=PV&amp;URL=http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion"><script src="http://js.revsci.net/gateway/gw.js?csid=D05508"></script><script type="text/JavaScript">DM_addEncToLoc("CHANNEL","VIDEOPORTAL");DM_addEncToLoc("SUBCHANNEL","PROGRAMASCOMPLETOS");DM_addEncToLoc("SECTION","UVIDEOS");DM_addEncToLoc("CONTENT","VIDEOPAGE");DM_addEncToLoc("PARTNER","TELEVISA");DM_addEncToLoc("CLIENT","ONLINE");DM_addEncToLoc("CR","223");DM_addEncToLoc("D","501");DM_addEncToLoc("Z2","10");DM_addEncToLoc("Z3","101");DM_addEncToLoc("S","NEW+YORK");DM_addEncToLoc("T","-5");DM_addEncToLoc("SRT","none");DM_addEncToLoc("DP","LM");DM_addEncToLoc("PRELANG","SP");DM_addEncToLoc("TLD","net");DM_addEncToLoc("SLD","univision");DM_addEncToLoc("PUB","VIDEOPORTAL");DM_addEncToLoc("SHOW","HABLANDOSOLA");DM_tag();</script><script language="JavaScript" type="text/javascript"> s_uim.pageName="videos:especiales:hablando-sola:video:2014-07-03:mi-espacio-todo-tiempo-tiene-su-funcion:videopage"; s_uim.prop1="videoportal"; s_uim.prop2="programascompletos"; s_uim.prop3="uvideos"; s_uim.prop4="video479589"; s_uim.prop5="videopage"; s_uim.prop6="videoportal"; s_uim.prop8=""; s_uim.prop11="videoportal"; s_uim.prop12="televisa"; s_uim.prop28="Todo tiempo tiene su funcion en la vida:video479589"; s_uim.prop49="HABLANDOSOLA"; if(typeof s_uim.prop39 == 'undefined'){s_uim.prop39="site";} s_uim.hier1="videoportal|programascompletos|uvideos|videopage|Todo tiempo tiene su funcion en la vida"; s_uim.hier2="videopage|videoportal|programascompletos|uvideos|Todo tiempo tiene su funcion en la vida"; s_uim.hier3="501|videoportal|programascompletos|uvideos|videopage|Todo tiempo tiene su funcion en la vida"; s_uim.prop20="not logged in"; s_uim.prop15="501"; s_uim.prop34=""; s_uim.prop35=""; s_uim.prop36=""; s_uim.prop38="sp"; s_uim.isFromUSorPR="yes"; s_uim.prop16 =document.URL; s_uim.eVar7 ="portal"; s_uim.prop60="spanish"; s_uim.eVar60="spanish";function Delete_Cookie( name, path, domain ){document.cookie=name+"="+((path) ? ";path="+path:"")+((domain)?";domain="+domain:"") +";expires=Thu, 01 Jan 1970 00:00:01 GMT";}if(s_uim.isFromUSorPR=="yes"){var s_code=s_uim.t();}</script>
+
+	
+			</div>
+		</div>
+	</div>
+
+
+					
+				
+			
+		
+	
+	
+
+
+		
+      	
+
+                
+    
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px; "><div><iframe name="fb_xdm_frame_http" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; " src="http://static.ak.facebook.com/connect/xd_arbiter/2_ZudbRXWRs.js?version=41#channel=f13a99bdf8&amp;origin=http%3A%2F%2Fvideos.univision.com"></iframe><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; " src="https://s-static.ak.facebook.com/connect/xd_arbiter/2_ZudbRXWRs.js?version=41#channel=f13a99bdf8&amp;origin=http%3A%2F%2Fvideos.univision.com"></iframe></div></div></div></body></html>
+Processed URL list
+http://videos.univision.com/especiales/hablando-sola/video/2014-07-03/mi-espacio-todo-tiempo-tiene-su-funcion
+Processed CID list
+video479589

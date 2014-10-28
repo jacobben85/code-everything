@@ -4,6 +4,7 @@ var fs = require('fs');
 var urlList = [];
 var processedUrlList = [];
 var badUrls = [];
+var cidCodes = [];
 
 /**
  * Request pages and report any failing sub-requests
@@ -14,7 +15,7 @@ loadUrl = function (address) {
     console.log("Stating processing : " + address);
     page.onResourceReceived = function(response) {
         processing = true;
-        if (response.status != 200) {
+        if (response.status != 200 && response.status != 201 && response.status != 304) {
             var _urlAccess = response.url;
             console.log('Status : ' + response.status + ', URL : ' + _urlAccess.substring(0, 50) );
         }
@@ -25,7 +26,12 @@ loadUrl = function (address) {
         processedUrlList.push(address);
 
         if (status !== 'success') {
-            console.log('FAIL to load the address');
+            console.log('FAIL to load the address : ' + address);
+            if (processing == true) {
+                badUrls.push(address);
+                console.log("Page load failure. 20 seconds wait time.");
+                setTimeout(function(){requestPage(true); }, 20000);
+            }
         } else {
             processing = false;
             console.log("Processing completed : " + address);
@@ -36,6 +42,22 @@ loadUrl = function (address) {
                 });
             });
 
+            var cid = page.evaluate(function() {
+                if (typeof (cid) != 'undefined') {
+                    return cid;
+                }
+                return false;
+            });
+
+            if (cid) {
+                console.log(cid);
+                cidCodes.push(cid);
+            }
+
+            //page.evaluate(function() {
+            //console.log(page.content);
+            //});
+            
             validateUrlAndAdd(links, address);
         }
 
@@ -43,7 +65,11 @@ loadUrl = function (address) {
     });
 }
 
-requestPage = function () {
+requestPage = function (reset) {
+    if (typeof(reset) != 'undefined' && reset == true) {
+        processing = false;
+    }
+
     if (urlList.length < 1) {
         stop();
     }
@@ -83,6 +109,7 @@ getUrlDomain = function(url) {
 }
 
 validateUrlAndAdd = function (links, requester) {
+
     for (var i = 0; i < links.length; i++) {
         var beingProcessed = links[i];
 
@@ -93,7 +120,7 @@ validateUrlAndAdd = function (links, requester) {
         var domain = getUrlDomain(requester);
 
         if (beingProcessed.indexOf(domain) == 0) {
-            addUrl(beingProcessed.substring(0, 100));
+            addUrl(beingProcessed);
         }
     }
 
@@ -112,7 +139,14 @@ getUrlFromFile = function () {
 }
 
 printReports = function () {
+    console.log("Processed URL list : ");
     console.log(processedUrlList);
+
+    console.log("Processed CID list : ");
+    console.log(cidCodes);
+
+    console.log("Bad url list : ");
+    console.log(badUrls);
 }
 
 stop = function() {
