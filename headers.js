@@ -5,6 +5,7 @@ var urlList = [];
 var processedUrlList = [];
 var badUrls = [];
 var cidCodes = [];
+var startTime, endTime;
 
 /**
  * Request pages and report any failing sub-requests
@@ -147,14 +148,23 @@ printReports = function () {
 
     console.log("Bad url list : ");
     console.log(badUrls);
+
+    console.log("Number of files processed : " + processedUrlList.length);
+    console.log("The processing took : " + (endTime - startTime) + "ms.");
 }
 
 stop = function() {
+
+    var endTime = new Date().getTime();
+
     printReports();
     phantom.exit();
 }
 
 start = function() {
+
+    var startTime = new Date().getTime();
+    
     getUrlFromFile();
     requestPage();
 }
