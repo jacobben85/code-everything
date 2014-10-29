@@ -12,7 +12,7 @@ var startTime, endTime;
 
 var enableDigging = false;
 var enableGeneration = false;
-var takeScreenShot = true;
+var takeScreenShot = false;
 
 /**
  * Request pages and report any failing sub-requests
