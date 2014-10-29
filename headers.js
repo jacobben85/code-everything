@@ -6,6 +6,8 @@ var processedUrlList = [];
 var badUrls = [];
 var cidCodes = [];
 var processingTimes = [];
+var generationList = [];
+var generatedList = [];
 var startTime, endTime;
 
 /**
@@ -13,8 +15,13 @@ var startTime, endTime;
  * @type {Boolean}
  */
 var processing = false;
-loadUrl = function (address) {
-    console.log("Stating processing : " + address);
+loadUrl = function (address, enableLogs) {
+
+    if (typeof (enableLogs) == 'undefined') {
+        enableLogs = true;
+    }
+
+    if (enableLogs) console.log("Stating processing : " + address);
 
     var thisProcessStartTime = new Date().getTime();
 
@@ -22,7 +29,7 @@ loadUrl = function (address) {
         processing = true;
         if (response.status != 200 && response.status != 201 && response.status != 304) {
             var _urlAccess = response.url;
-            console.log('Status : ' + response.status + ', URL : ' + _urlAccess.substring(0, 50) );
+            if (enableLogs) console.log('Status : ' + response.status + ', URL : ' + _urlAccess.substring(0, 50) );
         }
 
         var urlCalled = response.url;
@@ -34,21 +41,21 @@ loadUrl = function (address) {
 
     page.open(address, function (status) {
 
-        processedUrlList.push(address);
+        if (enableLogs) processedUrlList.push(address);
 
         if (status !== 'success') {
-            console.log('FAIL to load the address : ' + address);
+            if (enableLogs) console.log('FAIL to load the address : ' + address);
             var thisProcessEndTime = new Date().getTime();
             processingTimes.push(thisProcessEndTime - thisProcessStartTime);
 
             if (processing == true) {
                 badUrls.push(address);
-                console.log("Page load failure. 20 seconds wait time.");
+                if (enableLogs) console.log("Page load failure. 20 seconds wait time.");
                 setTimeout(function(){requestPage(true); }, 20000);
             }
         } else {
             processing = false;
-            console.log("Processing completed : " + address);
+            if (enableLogs) console.log("Processing completed : " + address);
 
             var links = page.evaluate(function() {
                 return [].map.call(document.querySelectorAll('a'), function(link) {
@@ -63,16 +70,18 @@ loadUrl = function (address) {
                 return false;
             });
 
-            if (cid) {
+            if (cid && enableLogs) {
                 console.log(cid);
                 cidCodes.push(cid);
 
-                //addGenerationRequest(cid);
+                addGenerationRequest(cid);
             }
             
-            validateUrlAndAdd(links, address);
-            var thisProcessEndTime = new Date().getTime();
-            processingTimes.push(thisProcessEndTime - thisProcessStartTime);
+            if (enableLogs) {
+                validateUrlAndAdd(links, address, enableLogs);
+                var thisProcessEndTime = new Date().getTime();
+                processingTimes.push(thisProcessEndTime - thisProcessStartTime);
+            }
         }
 
         requestPage();
@@ -88,7 +97,11 @@ requestPage = function (reset) {
         stop();
     }
 
-    if (processing == false) {
+    if (generationList.length > 0) {
+        var genUrl = generationList.shift();
+        generatedList.push(genUrl);
+        loadUrl(genUrl, false);
+    } else if (processing == false) {
         loadUrl(urlList.shift());
     }
 }
@@ -105,10 +118,13 @@ cleanupUrl = function(url) {
     return url;
 }
 
-// addGenerationRequest = function (cid) {
-//     var generationUrl = 'http://wcm-jbjohn.univision.com/working/sendGeneration.php?object=' + cid;
-//     urlList.unshift(generationUrl);
-// }
+addGenerationRequest = function (cid) {
+    var generationUrl = 'http://wcm-jbjohn.univision.com/working/sendGeneration.php?object=' + cid;
+
+    if (generatedList.indexOf(generationUrl)) {
+        generationList.push(generationUrl);
+    }
+}
 
 addUrl = function (address) {
     address = cleanupUrl(address);
@@ -127,7 +143,7 @@ getUrlDomain = function(url) {
     return domain;
 }
 
-validateUrlAndAdd = function (links, requester) {
+validateUrlAndAdd = function (links, requester, enableLogs) {
 
     for (var i = 0; i < links.length; i++) {
         var beingProcessed = links[i];
@@ -143,7 +159,7 @@ validateUrlAndAdd = function (links, requester) {
         }
     }
 
-    console.log(urlList.length);
+    if (enableLogs) console.log(urlList.length);
 }
 
 getUrlFromFile = function () {
@@ -170,10 +186,14 @@ printReports = function () {
     console.log("Number of pages processed : " + processedUrlList.length);
     console.log("The processing took : " + (endTime - startTime)/1000 + " seconds");
 
-    var total=0;
+    var total=0, avg=0;
     for(var i in processingTimes) { total += processingTimes[i]; }
 
-    console.log("Average page load time : " + (total/processingTimes.length)/1000 + " seconds");
+    if (total > 0) {
+        avg = (total/processingTimes.length)/1000;
+    }
+
+    console.log("Average page load time : " + avg + " seconds");
 }
 
 stop = function() {
