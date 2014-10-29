@@ -10,6 +10,9 @@ var generationList = [];
 var generatedList = [];
 var startTime, endTime;
 
+var enableDigging = false;
+var enableGeneration = false;
+
 /**
  * Request pages and report any failing sub-requests
  * @type {Boolean}
@@ -31,6 +34,8 @@ loadUrl = function (address, enableLogs) {
             var _urlAccess = response.url;
             if (enableLogs) console.log('Status : ' + response.status + ', URL : ' + _urlAccess.substring(0, 50) );
         }
+
+        //console.log(response.headers['name']);
 
         var urlCalled = response.url;
 
@@ -74,11 +79,11 @@ loadUrl = function (address, enableLogs) {
                 console.log(cid);
                 cidCodes.push(cid);
 
-                addGenerationRequest(cid);
+                if(enableGeneration) addGenerationRequest(cid);
             }
             
             if (enableLogs) {
-                validateUrlAndAdd(links, address, enableLogs);
+                if (enableDigging) validateUrlAndAdd(links, address, enableLogs);
                 var thisProcessEndTime = new Date().getTime();
                 processingTimes.push(thisProcessEndTime - thisProcessStartTime);
             }
