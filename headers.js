@@ -12,6 +12,7 @@ var startTime, endTime;
 
 var enableDigging = false;
 var enableGeneration = false;
+var takeScreenShot = true;
 
 /**
  * Request pages and report any failing sub-requests
@@ -33,6 +34,10 @@ loadUrl = function (address, enableLogs) {
         if (response.status != 200 && response.status != 201 && response.status != 304) {
             var _urlAccess = response.url;
             if (enableLogs) console.log('Status : ' + response.status + ', URL : ' + _urlAccess.substring(0, 50) );
+
+            if (address == _urlAccess) {
+                addToList(badUrls, address);
+            }
         }
 
         //console.log(response.headers['name']);
@@ -87,6 +92,11 @@ loadUrl = function (address, enableLogs) {
                 var thisProcessEndTime = new Date().getTime();
                 processingTimes.push(thisProcessEndTime - thisProcessStartTime);
             }
+
+            if (enableLogs && takeScreenShot) {
+                var fileName = processedUrlList.length;
+                page.render(fileName + getUrlDomain(address).replace('.', '-').replace('http://', '') + ".png");
+            }
         }
 
         requestPage();
@@ -135,6 +145,13 @@ addUrl = function (address) {
     address = cleanupUrl(address);
     if (processedUrlList.indexOf(address) < 0 && urlList.indexOf(address) < 0) {
         urlList.push(address);
+    }
+}
+
+addToList = function (list, address) {
+    address = cleanupUrl(address);
+    if (list.indexOf(address) < 0) {
+        list.push(address);
     }
 }
 
