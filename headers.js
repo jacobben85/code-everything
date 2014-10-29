@@ -1,4 +1,4 @@
-var page = require('webpage').create();
+var webPage = require('webpage');
 var fs = require('fs');
 
 var urlList = [];
@@ -10,9 +10,10 @@ var generationList = [];
 var generatedList = [];
 var startTime, endTime;
 
-var enableDigging = false;
+var enableDigging = true;
 var enableGeneration = false;
 var takeScreenShot = false;
+var displayRequests = "m.unvision.com";
 
 /**
  * Request pages and report any failing sub-requests
@@ -20,6 +21,8 @@ var takeScreenShot = false;
  */
 var processing = false;
 loadUrl = function (address, enableLogs) {
+
+    var page = webPage.create();
 
     if (typeof (enableLogs) == 'undefined') {
         enableLogs = true;
@@ -39,13 +42,16 @@ loadUrl = function (address, enableLogs) {
                 addToList(badUrls, address);
             }
         }
+    };
 
-        //console.log(response.headers['name']);
-
-        var urlCalled = response.url;
-
-        if (urlCalled.indexOf('http://m.univision.com') == 0) {
-            //console.log(urlCalled);
+    page.onResourceRequested = function(requestData, networkRequest) {
+        
+        if (displayRequests.length > 0) {
+            var regex = new RegExp(displayRequests, "g");
+            var match = requestData.url.match(regex);
+            if (match != null) {
+                console.log(requestData.url);
+            }
         }
     };
 
@@ -61,7 +67,7 @@ loadUrl = function (address, enableLogs) {
             if (processing == true) {
                 badUrls.push(address);
                 if (enableLogs) console.log("Page load failure. 20 seconds wait time.");
-                setTimeout(function(){requestPage(true); }, 20000);
+                setTimeout(function(){page.close();requestPage(true); }, 20000);
             }
         } else {
             processing = false;
@@ -99,6 +105,7 @@ loadUrl = function (address, enableLogs) {
             }
         }
 
+        page.close();
         requestPage();
     });
 }
