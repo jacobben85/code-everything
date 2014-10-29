@@ -95,7 +95,7 @@ loadUrl = function (address, enableLogs) {
 
             if (enableLogs && takeScreenShot) {
                 var fileName = processedUrlList.length;
-                page.render(fileName + getUrlDomain(address).replace('.', '-').replace('http://', '') + ".png");
+                page.render(fileName + getUrlDomain(address).replace('http://', '').replace(/\./g, '-') + ".png");
             }
         }
 
