@@ -10,10 +10,10 @@ var generationList = [];
 var generatedList = [];
 var startTime, endTime;
 
-var enableDigging = true;
+var enableDigging = false;
 var enableGeneration = false;
 var takeScreenShot = false;
-var displayRequests = "m.unvision.com";
+var displayRequests = "";
 
 /**
  * Request pages and report any failing sub-requests
@@ -42,6 +42,8 @@ loadUrl = function (address, enableLogs) {
                 addToList(badUrls, address);
             }
         }
+
+        console.log('Request ' + JSON.stringify(response.time));
     };
 
     page.onResourceRequested = function(requestData, networkRequest) {
@@ -50,7 +52,7 @@ loadUrl = function (address, enableLogs) {
             var regex = new RegExp(displayRequests, "g");
             var match = requestData.url.match(regex);
             if (match != null) {
-                console.log(requestData.url);
+                console.log(decodeURIComponent(requestData.url));
             }
         }
     };
