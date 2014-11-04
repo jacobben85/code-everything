@@ -10,7 +10,7 @@ var generationList = [];
 var generatedList = [];
 var startTime, endTime;
 
-var enableDigging = false;
+var enableDigging = true;
 var enableGeneration = false;
 var takeScreenShot = false;
 var displayRequests = "";
@@ -43,7 +43,7 @@ loadUrl = function (address, enableLogs) {
             }
         }
 
-        console.log('Request ' + JSON.stringify(response.time));
+        //console.log('Request ' + JSON.stringify(response.time));
     };
 
     page.onResourceRequested = function(requestData, networkRequest) {
@@ -110,7 +110,7 @@ loadUrl = function (address, enableLogs) {
         page.close();
         requestPage();
     });
-}
+};
 
 requestPage = function (reset) {
     if (typeof(reset) != 'undefined' && reset == true) {
@@ -128,7 +128,7 @@ requestPage = function (reset) {
     } else if (processing == false) {
         loadUrl(urlList.shift());
     }
-}
+};
 
 cleanupUrl = function(url) {
     if (url.indexOf('?') > -1) {
@@ -140,7 +140,7 @@ cleanupUrl = function(url) {
     }
 
     return url;
-}
+};
 
 addGenerationRequest = function (cid) {
     var generationUrl = 'http://wcm-jbjohn.univision.com/working/sendGeneration.php?object=' + cid;
@@ -148,21 +148,21 @@ addGenerationRequest = function (cid) {
     if (generatedList.indexOf(generationUrl)) {
         generationList.push(generationUrl);
     }
-}
+};
 
 addUrl = function (address) {
     address = cleanupUrl(address);
     if (processedUrlList.indexOf(address) < 0 && urlList.indexOf(address) < 0) {
         urlList.push(address);
     }
-}
+};
 
 addToList = function (list, address) {
     address = cleanupUrl(address);
     if (list.indexOf(address) < 0) {
         list.push(address);
     }
-}
+};
 
 getUrlDomain = function(url) {
     var domain = "http://www.univision.com";
@@ -172,7 +172,7 @@ getUrlDomain = function(url) {
         domain = 'http://' + match[1] + '.' + match[2];
     }
     return domain;
-}
+};
 
 validateUrlAndAdd = function (links, requester, enableLogs) {
 
@@ -191,7 +191,7 @@ validateUrlAndAdd = function (links, requester, enableLogs) {
     }
 
     if (enableLogs) console.log(urlList.length);
-}
+};
 
 getUrlFromFile = function () {
     var file_h = fs.open('file.txt', 'r');
@@ -202,7 +202,7 @@ getUrlFromFile = function () {
         line = file_h.readLine();
     }
     file_h.close();
-}
+};
 
 printReports = function () {
     console.log("Processed URL list : ");
@@ -225,7 +225,7 @@ printReports = function () {
     }
 
     console.log("Average page load time : " + avg + " seconds");
-}
+};
 
 stop = function() {
 
@@ -233,7 +233,7 @@ stop = function() {
 
     printReports();
     phantom.exit();
-}
+};
 
 start = function() {
 
@@ -241,6 +241,6 @@ start = function() {
     
     getUrlFromFile();
     requestPage();
-}
+};
 
 start();
