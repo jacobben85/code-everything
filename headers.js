@@ -9,13 +9,22 @@ var enableDigging = false;
 var enableGeneration = false;
 var takeScreenShot = false;
 var displayRequests = "";
-var blockedDomains = ["m.univision.com"];
+var blockedDomains = ["m.univision.com", "adfarm.mediaplex.com", "adclick.g.doubleclick.net", "survey.112.2o7.net", 
+                        "pubads.g.doubleclick.net", "macads.univision.com", "pix04.revsci.net", "www.google-analytics.com", 
+                        "tpc.googlesyndication.com", "ping.chartbeat.net"];
 
 /**
  * Request pages and report any failing sub-requests
  * @type {Boolean}
  */
 var processing = false;
+
+/**
+ * loadUrl method
+ * 
+ * @param address    the url that is being requested
+ * @param enableLogs enabled/disable logs
+ */
 loadUrl = function (address, enableLogs) {
 
     var page = webPage.create();
@@ -28,11 +37,14 @@ loadUrl = function (address, enableLogs) {
 
     var thisProcessStartTime = new Date().getTime();
 
+    /**
+     * On Resource Received
+     */
     page.onResourceReceived = function(response) {
         processing = true;
         var _urlAccess = response.url;
 
-        if (response.status != 200 && response.status != 201 && response.status != 304) {
+        if (response.status != 200 && response.status != 201 && response.status != 304 && response.status != null) {
             
             if (enableLogs) console.log('Status : ' + response.status + ', ID : ' + response.id + ', URL : ' + _urlAccess.substring(0, 50) );
 
@@ -50,6 +62,9 @@ loadUrl = function (address, enableLogs) {
         }
     };
 
+    /**
+     * On Resource Requested
+     */
     page.onResourceRequested = function(requestData, networkRequest) {
         
         if (displayRequests.length > 0) {
@@ -68,7 +83,6 @@ loadUrl = function (address, enableLogs) {
                 if (match != null) {
                     if (enableLogs) { 
                         abortedUrls.push(decodeURIComponent(requestData.url));
-                        //console.log("Aborting request : " + decodeURIComponent(requestData.url)); 
                     }
                     networkRequest.abort();
                 }
@@ -79,6 +93,9 @@ loadUrl = function (address, enableLogs) {
 
     };
 
+    /**
+     * Phantom JS request opening request.
+     */
     page.open(address, function (status) {
 
         if (enableLogs) processedUrlList.push(address);
@@ -129,11 +146,20 @@ loadUrl = function (address, enableLogs) {
             }
         }
 
+        /**
+         * Close the running Phantom JS page
+         */
         page.close();
         requestPage();
     });
 };
 
+/**
+ * Page requester
+ * 
+ * Decides if the next page is ready or look up for more Url requests
+ * @param reset
+ */
 requestPage = function (reset) {
 
     requestTracker = [];
@@ -155,6 +181,14 @@ requestPage = function (reset) {
     }
 };
 
+/**
+ * Clean up Urls -
+ * 
+ * Remove the query params
+ * 
+ * @param url
+ * @returns
+ */
 cleanupUrl = function(url) {
     if (url.indexOf('?') > -1) {
         url = url.split("?")[0];
@@ -167,6 +201,10 @@ cleanupUrl = function(url) {
     return url;
 };
 
+/**
+ * Generation requester - specific to WCM generation
+ * @param cid
+ */
 addGenerationRequest = function (cid) {
     var generationUrl = 'http://wcm-jbjohn.univision.com/working/sendGeneration.php?object=' + cid;
 
@@ -175,6 +213,10 @@ addGenerationRequest = function (cid) {
     }
 };
 
+/**
+ * Add Url to array of urls to be processed
+ * @param address
+ */
 addUrl = function (address) {
     address = cleanupUrl(address);
     if (processedUrlList.indexOf(address) < 0 && urlList.indexOf(address) < 0) {
@@ -182,6 +224,11 @@ addUrl = function (address) {
     }
 };
 
+/**
+ * Method to make life easy, add an item to an array
+ * @param list
+ * @param address
+ */
 addToList = function (list, address) {
     address = cleanupUrl(address);
     if (list.indexOf(address) < 0) {
@@ -189,6 +236,11 @@ addToList = function (list, address) {
     }
 };
 
+/**
+ * Strip the domain name from a URL - regex its bad
+ * @param url
+ * @returns {String}
+ */
 getUrlDomain = function(url) {
     var domain = "http://www.univision.com";
 
@@ -199,6 +251,12 @@ getUrlDomain = function(url) {
     return domain;
 };
 
+/**
+ * Add to the urls to be processed, after checking it was processed already once
+ * @param links
+ * @param requester
+ * @param enableLogs
+ */
 validateUrlAndAdd = function (links, requester, enableLogs) {
 
     for (var i = 0; i < links.length; i++) {
@@ -218,6 +276,9 @@ validateUrlAndAdd = function (links, requester, enableLogs) {
     if (enableLogs) console.log(urlList.length);
 };
 
+/**
+ * File reader - that is how we start now. 
+ */
 getUrlFromFile = function () {
     var file_h = fs.open('file.txt', 'r');
     var line = file_h.readLine();
@@ -229,6 +290,9 @@ getUrlFromFile = function () {
     file_h.close();
 };
 
+/**
+ * Print reports
+ */
 printReports = function () {
     console.log("Processed URL list : ");
     console.log(processedUrlList);
@@ -255,6 +319,9 @@ printReports = function () {
     console.log(longRunningUrls);
 };
 
+/**
+ * On end process
+ */
 stop = function() {
 
     endTime = new Date().getTime();
@@ -263,6 +330,9 @@ stop = function() {
     phantom.exit();
 };
 
+/**
+ * On process start
+ */
 start = function() {
 
     startTime = new Date().getTime();
@@ -271,4 +341,7 @@ start = function() {
     requestPage();
 };
 
+/**
+ * Start from here - initial request.
+ */
 start();
