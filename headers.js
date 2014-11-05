@@ -1,13 +1,7 @@
 var webPage = require('webpage');
 var fs = require('fs');
 
-var urlList = [];
-var processedUrlList = [];
-var badUrls = [];
-var cidCodes = [];
-var processingTimes = [];
-var generationList = [];
-var generatedList = [];
+var urlList, processedUrlList, badUrls, cidCodes, processingTimes, generationList, generatedList, longRunningUrls, abortedUrls, requestTracker = [];
 var startTime, endTime;
 
 var enableDigging = false;
@@ -15,9 +9,6 @@ var enableGeneration = false;
 var takeScreenShot = false;
 var displayRequests = "";
 var blockedDomains = ["m.univision.com"];
-var requestTracker = [];
-var longRunningUrls = [];
-var abortedUrls = [];
 
 /**
  * Request pages and report any failing sub-requests
