@@ -1,8 +1,9 @@
 var webPage = require('webpage');
 var fs = require('fs');
 
-var urlList, processedUrlList, badUrls, cidCodes, processingTimes, generationList, generatedList, longRunningUrls, abortedUrls, requestTracker = [];
-var startTime, endTime;
+var urlList = [], processedUrlList = [], badUrls = [], cidCodes = [], processingTimes = [];
+var generationList = [], generatedList = [], longRunningUrls = [], abortedUrls = [];
+var requestTracker = [], startTime, endTime;
 
 var enableDigging = false;
 var enableGeneration = false;
@@ -44,8 +45,7 @@ loadUrl = function (address, enableLogs) {
         var processingTime = (currentTime - requestTracker[response.id]);
         if (processingTime > 1000) {
             if (enableLogs) { 
-                longRunningUrls.push( processingTime + ' ms - Url :'+_urlAccess);
-                console.log("Long processing time : " + processingTime + ' ms for url :' + _urlAccess.substring(0, 50)); 
+                longRunningUrls.push(processingTime + 'ms:'+_urlAccess);
             }
         }
     };
@@ -250,6 +250,9 @@ printReports = function () {
     }
 
     console.log("Average page load time : " + avg + " seconds");
+
+    console.log("Pages with long response times ");
+    console.log(longRunningUrls);
 };
 
 stop = function() {
