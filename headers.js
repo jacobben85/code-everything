@@ -10,10 +10,14 @@ var generationList = [];
 var generatedList = [];
 var startTime, endTime;
 
-var enableDigging = true;
+var enableDigging = false;
 var enableGeneration = false;
 var takeScreenShot = false;
 var displayRequests = "";
+var blockedDomains = ["m.univision.com"];
+var requestTracker = [];
+var longRunningUrls = [];
+var abortedUrls = [];
 
 /**
  * Request pages and report any failing sub-requests
@@ -34,16 +38,25 @@ loadUrl = function (address, enableLogs) {
 
     page.onResourceReceived = function(response) {
         processing = true;
+        var _urlAccess = response.url;
+
         if (response.status != 200 && response.status != 201 && response.status != 304) {
-            var _urlAccess = response.url;
-            if (enableLogs) console.log('Status : ' + response.status + ', URL : ' + _urlAccess.substring(0, 50) );
+            
+            if (enableLogs) console.log('Status : ' + response.status + ', ID : ' + response.id + ', URL : ' + _urlAccess.substring(0, 50) );
 
             if (address == _urlAccess) {
                 addToList(badUrls, address);
             }
         }
 
-        //console.log('Request ' + JSON.stringify(response.time));
+        var currentTime = new Date().getTime();
+        var processingTime = (currentTime - requestTracker[response.id]);
+        if (processingTime > 1000) {
+            if (enableLogs) { 
+                longRunningUrls.push( processingTime + ' ms - Url :'+_urlAccess);
+                console.log("Long processing time : " + processingTime + ' ms for url :' + _urlAccess.substring(0, 50)); 
+            }
+        }
     };
 
     page.onResourceRequested = function(requestData, networkRequest) {
@@ -55,6 +68,24 @@ loadUrl = function (address, enableLogs) {
                 console.log(decodeURIComponent(requestData.url));
             }
         }
+
+        if (blockedDomains.length > 0) {
+            var arrayLength = blockedDomains.length;
+            for (var i = 0; i < arrayLength; i++) {
+                var regex = new RegExp(blockedDomains[i], "g");
+                var match = requestData.url.match(regex);
+                if (match != null) {
+                    if (enableLogs) { 
+                        abortedUrls.push(decodeURIComponent(requestData.url));
+                        //console.log("Aborting request : " + decodeURIComponent(requestData.url)); 
+                    }
+                    networkRequest.abort();
+                }
+            }
+        }
+
+        requestTracker[requestData.id] = new Date().getTime();
+
     };
 
     page.open(address, function (status) {
@@ -113,6 +144,9 @@ loadUrl = function (address, enableLogs) {
 };
 
 requestPage = function (reset) {
+
+    requestTracker = [];
+
     if (typeof(reset) != 'undefined' && reset == true) {
         processing = false;
     }
