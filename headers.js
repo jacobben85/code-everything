@@ -47,6 +47,8 @@ loadUrl = function (address, enableLogs) {
 
     /**
      * On Resource Received
+     * 
+     * @param response
      */
     page.onResourceReceived = function(response) {
         processing = true;
@@ -72,6 +74,9 @@ loadUrl = function (address, enableLogs) {
 
     /**
      * On Resource Requested
+     * 
+     * @param requestData
+     * @param networkRequest
      */
     page.onResourceRequested = function(requestData, networkRequest) {
         
@@ -102,7 +107,9 @@ loadUrl = function (address, enableLogs) {
     };
 
     /**
-     * Phantom JS request opening request.
+     * Phantom JS open page
+     * 
+     * @param status 
      */
     page.open(address, function (status) {
 
