@@ -29,6 +29,9 @@ loadUrl = function (address, enableLogs) {
 
     var page = webPage.create();
 
+    page.settings.userName = 'debug';
+    page.settings.password = 'Xoong1ee';
+
     if (typeof (enableLogs) == 'undefined') {
         enableLogs = true;
     }
