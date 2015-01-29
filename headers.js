@@ -19,6 +19,8 @@ var blockedDomains = ["m.univision.com", "adfarm.mediaplex.com", "adclick.g.doub
  */
 var processing = false;
 
+var username = "", password = "";
+
 /**
  * loadUrl method
  * 
@@ -29,8 +31,11 @@ loadUrl = function (address, enableLogs) {
 
     var page = webPage.create();
 
-    page.settings.userName = 'debug';
-    page.settings.password = 'Xoong1ee';
+    if (username !== "") {
+        page.settings.userName = username;
+        page.settings.password = password;        
+    }
+
 
     if (typeof (enableLogs) == 'undefined') {
         enableLogs = true;
