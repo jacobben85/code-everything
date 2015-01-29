@@ -37,7 +37,7 @@ loadUrl = function (address, enableLogs) {
     }
 
 
-    if (typeof (enableLogs) == 'undefined') {
+    if (typeof (enableLogs) === 'undefined') {
         enableLogs = true;
     }
 
@@ -52,11 +52,11 @@ loadUrl = function (address, enableLogs) {
         processing = true;
         var _urlAccess = response.url;
 
-        if (response.status != 200 && response.status != 201 && response.status != 304 && response.status != null) {
+        if (response.status !== 200 && response.status !== 201 && response.status !== 304 && response.status !== null) {
             
             if (enableLogs) console.log('Status : ' + response.status + ', ID : ' + response.id + ', URL : ' + _urlAccess.substring(0, 50) );
 
-            if (address == _urlAccess) {
+            if (address === _urlAccess) {
                 addToList(badUrls, address);
             }
         }
@@ -78,7 +78,7 @@ loadUrl = function (address, enableLogs) {
         if (displayRequests.length > 0) {
             var regex = new RegExp(displayRequests, "g");
             var match = requestData.url.match(regex);
-            if (match != null) {
+            if (match !== null) {
                 console.log(decodeURIComponent(requestData.url));
             }
         }
@@ -88,7 +88,7 @@ loadUrl = function (address, enableLogs) {
             for (var i = 0; i < arrayLength; i++) {
                 var regex = new RegExp(blockedDomains[i], "g");
                 var match = requestData.url.match(regex);
-                if (match != null) {
+                if (match !== null) {
                     if (enableLogs) { 
                         abortedUrls.push(decodeURIComponent(requestData.url));
                     }
@@ -113,7 +113,7 @@ loadUrl = function (address, enableLogs) {
             var thisProcessEndTime = new Date().getTime();
             processingTimes.push(thisProcessEndTime - thisProcessStartTime);
 
-            if (processing == true) {
+            if (processing === true) {
                 badUrls.push(address);
                 if (enableLogs) console.log("Page load failure. 20 seconds wait time.");
                 setTimeout(function(){page.close();requestPage(true); }, 20000);
@@ -129,7 +129,7 @@ loadUrl = function (address, enableLogs) {
             });
 
             var cid = page.evaluate(function() {
-                if (typeof (cid) != 'undefined') {
+                if (typeof (cid) !== 'undefined') {
                     return cid;
                 }
                 return false;
@@ -172,7 +172,7 @@ requestPage = function (reset) {
 
     requestTracker = [];
 
-    if (typeof(reset) != 'undefined' && reset == true) {
+    if (typeof(reset) !== 'undefined' && reset === true) {
         processing = false;
     }
 
@@ -184,7 +184,7 @@ requestPage = function (reset) {
         var genUrl = generationList.shift();
         generatedList.push(genUrl);
         loadUrl(genUrl, false);
-    } else if (processing == false) {
+    } else if (processing === false) {
         loadUrl(urlList.shift());
     }
 };
@@ -202,7 +202,7 @@ cleanupUrl = function(url) {
         url = url.split("?")[0];
     }
 
-    if (url.charAt(url.length - 1) == '/') {
+    if (url.charAt(url.length - 1) === '/') {
         url = url.substr(0, url.length - 1);
     }
 
@@ -270,13 +270,13 @@ validateUrlAndAdd = function (links, requester, enableLogs) {
     for (var i = 0; i < links.length; i++) {
         var beingProcessed = links[i];
 
-        if (beingProcessed.charAt(0) == '/') {
+        if (beingProcessed.charAt(0) === '/') {
             beingProcessed = requester + beingProcessed;
         }
 
         var domain = getUrlDomain(requester);
 
-        if (beingProcessed.indexOf(domain) == 0) {
+        if (beingProcessed.indexOf(domain) === 0) {
             addUrl(beingProcessed);
         }
     }
