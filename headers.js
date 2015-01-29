@@ -1,4 +1,4 @@
-var webPage = require('webpage');
+var webPage = require('webpage'),system = require('system');
 var fs = require('fs');
 
 var urlList = [], processedUrlList = [], badUrls = [], cidCodes = [], processingTimes = [];
@@ -306,6 +306,14 @@ getUrlFromFile = function () {
 };
 
 /**
+ * Read from command line. 
+ */
+getFromCommandLine = function () {
+    address = system.args[1];
+    addUrl(address);
+};
+
+/**
  * Print reports
  */
 printReports = function () {
@@ -352,7 +360,11 @@ start = function() {
 
     startTime = new Date().getTime();
     
-    getUrlFromFile();
+    if (system.args.length === 1) {
+        getUrlFromFile();
+    } else {
+        getFromCommandLine();
+    }
     requestPage();
 };
 
