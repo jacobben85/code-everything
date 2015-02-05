@@ -8,8 +8,8 @@ var requestTracker = [], startTime, endTime;
 var enableDigging = false;
 var enableGeneration = false;
 var takeScreenShot = false;
-var displayRequests = "";
-var blockedDomains = ["m.univision.com", "adfarm.mediaplex.com", "adclick.g.doubleclick.net", "survey.112.2o7.net", 
+var displayRequests = "m.univision.com";
+var blockedDomains = ["adfarm.mediaplex.com", "adclick.g.doubleclick.net", "survey.112.2o7.net", 
                         "pubads.g.doubleclick.net", "macads.univision.com", "pix04.revsci.net", "www.google-analytics.com", 
                         "tpc.googlesyndication.com", "ping.chartbeat.net"];
 
@@ -36,7 +36,6 @@ loadUrl = function (address, enableLogs) {
         page.settings.password = password;        
     }
 
-
     if (typeof (enableLogs) === 'undefined') {
         enableLogs = true;
     }
@@ -60,6 +59,14 @@ loadUrl = function (address, enableLogs) {
 
             if (address === _urlAccess) {
                 addToList(badUrls, address);
+            }
+        }
+
+        if (response.id === 1 && response.stage === 'end') {
+            for (var i = 0; i < response.headers.length; i++) {
+                if (response.headers[i].name === "X-Server" || response.headers[i].name === "X-Cache-Delivery") {
+                    console.log(response.headers[i].name + ': ' + response.headers[i].value);
+                }
             }
         }
 
@@ -147,6 +154,17 @@ loadUrl = function (address, enableLogs) {
                 cidCodes.push(cid);
 
                 if(enableGeneration) addGenerationRequest(cid);
+            }
+
+            for (var i = 0; i < page.cookies.length; i++) {
+                if (page.cookies[i].name === "JSESSIONID") {
+                    sessionId = page.cookies[i].value;
+
+                    var match = sessionId.match('([0-9A-Z]*)\.(u+[0-9]{4})\-(node+[0-9]+)');
+                    if (match.length > 2) {
+                        console.log('Response from :' + match[2] + ' - ' + match[3]);
+                    }
+                }
             }
             
             if (enableLogs) {
