@@ -228,7 +228,7 @@ addToList = function (list, address) {
  * @returns {String}
  */
 getUrlDomain = function(url) {
-    var domain = "http://www.newyorker.com";
+    var domain = "http://www.univision.com";
 
     var match = url.match('^http:\/\/(.*)\.(com|org)/?(.*)');
     if (match.length > 2) {
