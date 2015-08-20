@@ -1,15 +1,16 @@
 var webPage = require('webpage'),system = require('system');
 var fs = require('fs');
 
-var urlList = [], processedUrlList = [], badUrls = [], cidCodes = [], processingTimes = [];
+var urlList = [], badUrls = [], cidCodes = [], processingTimes = [];
+var processedUrlList = ["http://beta2.uvideos.com/especiales/premio-lo-nuestro-2015"];
 var generationList = [], generatedList = [], longRunningUrls = [], abortedUrls = [];
 var requestTracker = [], startTime, endTime;
 
-var enableDigging = false;
+var enableDigging = true;
 var enableGeneration = false;
 var takeScreenShot = false;
-var displayRequests = "m.univision.com";
-var blockedDomains = ["adfarm.mediaplex.com", "adclick.g.doubleclick.net", "survey.112.2o7.net", 
+var displayRequests = "";
+var blockedDomains = ["ping.chartbeat.net, m.univision.com", "adfarm.mediaplex.com", "adclick.g.doubleclick.net", "survey.112.2o7.net", 
                         "pubads.g.doubleclick.net", "macads.univision.com", "pix04.revsci.net", "www.google-analytics.com", 
                         "tpc.googlesyndication.com", "ping.chartbeat.net"];
 
@@ -19,7 +20,7 @@ var blockedDomains = ["adfarm.mediaplex.com", "adclick.g.doubleclick.net", "surv
  */
 var processing = false;
 
-var username = "", password = "";
+var username = "debug", password = "Xoong1ee";
 
 /**
  * loadUrl method

@@ -119,8 +119,8 @@ loadUrl = function (address, enableLogs) {
 
             if (processing === true) {
                 badUrls.push(address);
-                if (enableLogs) console.log("Page load failure. 20 seconds wait time.");
-                setTimeout(function(){requestPage(true); }, 20000);
+                if (enableLogs) console.log("Page load failure. 10 seconds wait time.");
+                setTimeout(function(){requestPage(true); }, 10000);
             }
         } else {
             processing = false;
